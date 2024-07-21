@@ -832,9 +832,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001599, caniuse-lite@^1.0.30001640:
-  version "1.0.30001642"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001642.tgz#6aa6610eb24067c246d30c57f055a9d0a7f8d05f"
-  integrity sha512-3XQ0DoRgLijXJErLSl+bLnJ+Et4KqV1PY6JJBGAFlsNsz31zeAIncyeZfLCabHK/jtSh+671RM9YMldxjUPZtA==
+  version "1.0.30001643"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001643.tgz#9c004caef315de9452ab970c3da71085f8241dbd"
+  integrity sha512-ERgWGNleEilSrHM6iUz/zJNSQTP8Mr21wDWpdgvRwcTXGAq6jMtOUPP4dqFPTdKqZ2wKTdtB+uucZ3MRpAUSmg==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -2296,10 +2296,10 @@ vite@^5.3.3:
   optionalDependencies:
     fsevents "~2.3.3"
 
-vitepress-sls-blog-tmpl@^0.9.6:
-  version "0.9.6"
-  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.9.6.tgz#64128798d0637a46159c72ab3aa20d73272eb9c8"
-  integrity sha512-M9w6BJJSRR+9gP9RjXaa/nde1yAMiyMIdLUiuIo3XuqbV+1D4ge+W0c1mf68IU9fFe5vszAhnxsg4fGBSO+m1w==
+vitepress-sls-blog-tmpl@^0.9.7:
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.9.7.tgz#aad76bc82f104f9c1c2b457bd7a34b2451d1282e"
+  integrity sha512-asHo0hD1QxgjhEdxs5nyLNNMohfwa9tpGqgsN16kExUpEa55eezbUX+pq2M+m3c1tTbuZQ6GEz65vRQw7VEEnw==
   dependencies:
     "@iconify/vue" "^4.1.2"
     "@mdit/plugin-figure" "^0.12.0"
