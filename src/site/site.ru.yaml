@@ -1,0 +1,60 @@
+title: site
+body: |
+  title: "Блог Система Личной Свободы"
+  description: "Блог Система Личной Свободы"
+  siteLogoAlt: "Блог Система Личной Свободы"
+
+  authors:
+    - id: "ivan-k"
+      name: "Айван Кей"
+      link: "${PROPS.siteUrl}/${PROPS.lang}/doc/ivan-k"
+  postDonateCall: "Если вам нравится наш проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
+  footer:
+    message: "Копирование разрешено только со ссылкой на источник."
+    # --- After this line all text the same for all the languages
+    copyright: "${PROPS.footerCopyright}"
+    links:
+     - text: "${PROPS.t.links.aboutBlog}"
+       href: "page/about-blog"
+  topBar:
+    links:
+      - text: "${PROPS.t.links.donate}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
+        icon: "${PROPS.theme.donateIcon}"
+        mobileToo: true
+      - text: "${PROPS.t.links.wiki}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
+        icon: "${PROPS.theme.docIcon}"
+  sideBar:
+    links:
+      - text: "${PROPS.t.links.recent}"
+        href: "${PROPS.theme.recentBaseUrl}/1"
+        icon: "${PROPS.theme.recentIcon}"
+      - text: "${PROPS.t.tags}"
+        href: "${PROPS.theme.allTagsUrl}"
+        icon: "${PROPS.theme.tagsIcon}"
+      - text: "${PROPS.t.links.byDate}"
+        href: "${PROPS.theme.archiveBaseUrl}"
+        icon: "${PROPS.theme.byDateIcon}"
+    bottomLinks:
+      - text: "${PROPS.t.links.donate}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
+        icon: "${PROPS.theme.donateIcon}"
+        mobile: true
+      - text: "${PROPS.t.links.wiki}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.docUrl}"
+        icon: "${PROPS.theme.docIcon}"
+        mobile: true
+      - { header: "${PROPS.t.links.links}" }
+      - text: "${PROPS.t.links.ourYoutubeChannel}"
+        href: "https://www.youtube.com/@slsfreedom"
+        icon: "${PROPS.theme.youtubeIcon}"
+      - text: "${PROPS.t.links.ourTelegramChannel}"
+        href: "https://t.me/slsfreedom"
+        icon: "${PROPS.theme.telegramIcon}"
+      - text: "${PROPS.t.links.ourTelegramChat}"
+        href: "https://t.me/slsfreedom_chat"
+        icon: "${PROPS.theme.chatIcon}"
+      - text: "${PROPS.t.links.weInSocialMedia}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.linksUrl}"
+        icon: "${PROPS.theme.socialLinksIcon}"
