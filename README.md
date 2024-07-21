@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18fe20b9-c449-4119-af07-6b3826eeacfd/deploy-status)](https://app.netlify.com/sites/sls-blog/deploys)
+
 # Blog of The system of personal freedom
 
 ## Run
