@@ -2,7 +2,7 @@ title: site
 body: |
   title: "Блог Система Личной Свободы"
   description: "Блог Система Личной Свободы"
-  siteLogoAlt: "Блог Система Личной Свободы"
+  siteTitle: "Блог Система Личной Свободы"
 
   authors:
     - id: "ivan-k"

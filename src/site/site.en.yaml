@@ -2,7 +2,7 @@ title: site
 body: |
   title: "Blog of The system of personal freedom"
   description: "Blog of The system of personal freedom"
-  siteLogoAlt: "Blog of The system of personal freedom"
+  siteTitle: "Blog of The system of personal freedom"
 
   authors:
     - id: "ivan-k"
