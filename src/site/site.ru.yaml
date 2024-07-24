@@ -1,5 +1,5 @@
 title: site
-body: |
+body: |-
   title: "Блог Система Личной Свободы"
   description: "Блог Система Личной Свободы"
   siteTitle: "Блог Система Личной Свободы"
@@ -11,7 +11,6 @@ body: |
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
-    # --- After this line all text the same for all the languages
     copyright: "${PROPS.footerCopyright}"
     links:
      - text: "${PROPS.t.links.aboutBlog}"
