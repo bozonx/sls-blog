@@ -83,7 +83,7 @@ collections:
         # public_folder: /media/{{slug}}
         # choose_url: true
         required: false
-        i18n: true
+        i18n: duplicate
       - label: "Description of cover image"
         name: "coverDescr"
         widget: "string"
@@ -153,14 +153,14 @@ collections:
           # - { label: "overcast", name: "overcast", widget: "string", required: false, i18n: true }
           # - { label: "zvuk", name: "zvuk", widget: "string", required: false, i18n: true }
           # - { label: "podcastaddiction", name: "podcastaddiction", widget: "string", required: false, i18n: true }
-      - label: "Language of podcast (set only if not equal to the page lang)"
-        name: "podcastLang"
-        widget: select
-        options: ["", "RU", "EN"]
-        default: ""
-        required: false
-        preview: false
-        i18n: true
+      # - label: "Language of podcast (set only if not equal to the page lang)"
+      #   name: "podcastLang"
+      #   widget: select
+      #   options: ["", "RU", "EN"]
+      #   default: ""
+      #   required: false
+      #   preview: false
+      #   i18n: true
       - name: authorId
         label: Author
         widget: select
@@ -235,9 +235,7 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
-            modes: ["raw", "rich_text"]
             i18n: true
-            # show_raw: true
       - name: index
         label: Index
         file: "src/{{locale}}/index.md"
@@ -246,7 +244,5 @@ collections:
         fields:
           - label: "Body"
             name: "body"
-            widget: "markdown"
-            modes: ["raw", "rich_text"]
+            widget: "text"
             i18n: true
-            show_raw: true

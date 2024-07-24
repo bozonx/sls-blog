@@ -22,10 +22,15 @@ const hero = {
       href: `${theme.value.recentBaseUrl}/1`,
       primary: true,
     },
+    // {
+    //   text: theme.value.t.links.wiki,
+    //   href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.docUrl}`,
+    //   icon: theme.value.docIcon,
+    // },
     {
-      text: theme.value.t.links.wiki,
-      href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.docUrl}`,
-      icon: theme.value.docIcon,
+      text: "Youtube channel (RU)",
+      href: "https://www.youtube.com/@slsfreedom",
+      icon: theme.value.youtubeIcon,
     },
     {
       text: theme.value.t.links.donate,
