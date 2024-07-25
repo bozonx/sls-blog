@@ -17,4 +17,20 @@ export default {
     ...configBase.themeConfig,
     showAuthorInPostList: false,
   },
+
+  head: [
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-B9R514ZW75",
+      },
+    ],
+    [
+      "script",
+      {},
+      `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+       gtag('config', 'G-B9R514ZW75');`,
+    ],
+  ],
 };
