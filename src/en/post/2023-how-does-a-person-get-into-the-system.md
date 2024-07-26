@@ -4,7 +4,7 @@ date: 2023-08-26T12:00-03:00
 description: The system uses various manipulations to draw victims into its game and into the system's trap. It substitutes concepts, builds a cocoon of information around the victim and bombards her with false statements that are disguised as true. In this way it creates a whole fictional world that seems real to the victim. The goal of the system is to get into the core of the victim's personality where it will gain control over the victim's subconscious and use it to attract other victims. And for the victim, it threatens an unsettling and unhappy life.
 previewText: ""
 descrAsPreview: true
-cover: /media/how-does-a-person-get-into-the-system-1.avif
+cover: /media/2023-how-does-a-person-get-into-the-system-1.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - system
 ---
+
 The ideas and the systems behind them spread like a virus through
 societies, infecting people's minds and often leading to destructive consequences.
 consequences and, above all, the loss of personal freedom.

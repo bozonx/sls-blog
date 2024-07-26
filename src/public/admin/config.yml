@@ -31,8 +31,11 @@ collections:
     slug: "{{year}}-{{slug}}"
     preview_path: "{{locale}}/post/{{slug}}"
     create: true
-    summary: "{{title}} | {{commit_date}} | {{commit_author}} | {{filename}}.md"
+    summary: "{{title}} | {{filename}}.md"
     sortable_fields: ["date", "title", "authorId"]
+
+    media_folder: src/public/media
+    public_folder: /media
     # media_folder: src/public/media/{{slug}}
     # public_folder: /media/{{slug}}
     # view_groups:
@@ -163,10 +166,8 @@ collections:
       #   i18n: true
       - name: authorId
         label: Author
-        widget: select
-        options: ["ivan-k"]
-        required: false
-        preview: false
+        widget: hidden
+        default: "ivan-k"
         i18n: duplicate
       - name: tags
         label: Tags

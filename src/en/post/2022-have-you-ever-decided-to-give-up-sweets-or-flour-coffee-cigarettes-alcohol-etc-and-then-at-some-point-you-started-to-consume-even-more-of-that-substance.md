@@ -4,7 +4,7 @@ date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ../../post/2024-have-you-ever-decided-to-give-up.avif
+cover: /media/2022-have-you-ever-decided-to-give-up.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - addiction
 ---
+
 So there are several mechanisms involved here, let's go through them in order.
 
 ## First is psychological defense
@@ -25,7 +26,7 @@ The brain thinks that it is giving up something important and this can deprive u
 
 The subconscious mind is critical of the conscious mind in matters related to survival and pleasure, and in this case it thinks: stupid, what are you doing, why are you giving up the goodies? And it changes our attention so that you notice more what you want to give up: chocolate bars, alcohol, etc. When you see them, it triggers the desire mechanism, you may even feel dizzy, salivate and remember how good you felt when you were consuming them. There will be anguish that you will not be able to experience these pleasures again. And what you want to give up will appear more and more often in your field of vision. And as a result of this massive attack, you will find it very difficult to cope with yourself.
 
-## Affirmations and overvaluation ##
+## Affirmations and overvaluation
 
 Our brain really hates to lose something of value. At some point in time it has received confirmations that, for example, sweets help you think better, alcohol helps you communicate better. And these ideas passed through the filter of the core personality, now these beliefs are part of your personality and if someone dares to challenge them you will defend these beliefs with aggression, because you will think that someone is invading your personal space and criticizing your core beliefs and your personality.
 
@@ -39,7 +40,7 @@ In the end, you have a dependence, even if it's only at the initial stage, but i
 
 1. The conflict of consciousness and subconsciousness is inevitable, so you need to choose an effective way to get rid of addiction: first of all, books like Easy Way to Quit Smoking/Drinking/Lose Weight, as well as very helpful to see a psychotherapist, there are other ways. That is, you need to get positive confirmations and do not give confirmation of negative beliefs and gradually the subconscious mind will learn to think differently. There is also a way of sharp refusal from the substance with the help of willpower, but this method works only if the addiction is not strong. If it is strong, it is not recommended to use willpower, and it is better to consult a psychotherapist. I hope you do not even think about any witch doctors, hypnotizers, coding and similar nonsense. Forget about any magic pills and that someone for you and a couple of days will solve such problems.
 2. Whichever way you choose, try to get positive affirmations on occasion. For example, if you walk by a counter with chocolates, say inside yourself: "How great it is that now I don't have to eat this nasty stuff, I feel so much better and lighter without it."
-3- Researching information about your problem is a very good way of dealing with bad habits and addictions. Look for information on Youtube, on the internet, in books. Read and make sense of everything. At least from time to time read, especially when you feel down and ready to give up, then new information on the topic of addictions and bad habits will motivate you well.
+   3- Researching information about your problem is a very good way of dealing with bad habits and addictions. Look for information on Youtube, on the internet, in books. Read and make sense of everything. At least from time to time read, especially when you feel down and ready to give up, then new information on the topic of addictions and bad habits will motivate you well.
 
 ## So:
 
