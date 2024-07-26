@@ -28,14 +28,12 @@ collections:
     i18n: true
     folder: "src"
     path: "post/{{slug}}"
-    slug: "{{year}}-{{slug}}"
+    slug: "{{date | date('YYYY')}}-{{slug}}"
     preview_path: "{{locale}}/post/{{slug}}"
     create: true
     summary: "{{title}} | {{filename}}.md"
     sortable_fields: ["date", "title", "authorId"]
 
-    media_folder: src/public/media
-    public_folder: /media
     # media_folder: src/public/media/{{slug}}
     # public_folder: /media/{{slug}}
     # view_groups:
@@ -82,6 +80,8 @@ collections:
       - label: "Cover"
         name: "cover"
         widget: "image"
+        media_folder: src/public/media
+        public_folder: /media
         # media_folder: src/public/media/{{slug}}
         # public_folder: /media/{{slug}}
         # choose_url: true
