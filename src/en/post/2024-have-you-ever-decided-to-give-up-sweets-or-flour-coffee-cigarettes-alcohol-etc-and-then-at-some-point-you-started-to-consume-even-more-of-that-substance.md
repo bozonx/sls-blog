@@ -4,7 +4,7 @@ date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: ../../post/2024-have-you-ever-decided-to-give-up.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
@@ -12,7 +12,8 @@ videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - addiction
 ---
 So there are several mechanisms involved here, let's go through them in order.
 

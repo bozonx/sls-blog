@@ -4,15 +4,16 @@ date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: ../../post/2024-have-you-ever-decided-to-give-up.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/slsfreedom/29
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - зависимость
 ---
 Так вот здесь задействовано сразу несколько механизмов, давайте разбираться по порядку.
 
