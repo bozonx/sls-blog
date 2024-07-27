@@ -4,7 +4,7 @@ date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: /media/2022-have-you-ever-decided-to-give-up.avif
+cover: /media/2022-why-denial-of-addiction-makes-us-see-it-everywhere.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/29
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - зависимость
 ---
+
 Бывало ли у вас такое что решил отказаться от сладкого или мучного, от кофе, сигарет, алкоголя и тд и после этого вы в какой-то момент еще больше стали потреблять этого вещества?
 
 Так вот здесь задействовано сразу несколько механизмов, давайте разбираться по порядку.
