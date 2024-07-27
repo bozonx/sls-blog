@@ -1,5 +1,5 @@
 ---
-title: Have you ever decided to give up sweets or flour coffee, cigarettes, alcohol, etc. and then at some point you started to consume even more of that substance?
+title: Why denial of addiction makes us see it everywhereHave you ever decided to give up sweets or flour coffee, cigarettes, alcohol, etc. and then at some point you started to consume even more of that substance?
 date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
@@ -15,6 +15,8 @@ authorId: ivan-k
 tags:
   - addiction
 ---
+Have you ever decided to give up sweets or flour, coffee, cigarettes, alcohol, etc. and then at some point you started to consume more of this substance?
+
 So there are several mechanisms involved here, let's go through them in order.
 
 ## First, it's a psychological defense
