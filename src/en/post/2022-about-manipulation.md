@@ -43,4 +43,4 @@ In general manipulation is aggressive behavior and does not bring anything good 
 - Low self-esteem, self-worth, and self-love.
 - The victim has a kind of blurred consciousness, it is difficult for her to see the manipulation itself. The victim does not realize that he or she owes nothing to the manipulator.
 
-Further we will analyze manipulation in more detail, we will talk about how to get out from under manipulation and why you should not become a manipulator yourself.
+Further we will analyze manipulation in more detail, we will talk about [how to get out from under manipulation](2022-how-to-get-out-from-under-manipulation-first-we-discover-the-connections) and why you should not become a manipulator yourself.
