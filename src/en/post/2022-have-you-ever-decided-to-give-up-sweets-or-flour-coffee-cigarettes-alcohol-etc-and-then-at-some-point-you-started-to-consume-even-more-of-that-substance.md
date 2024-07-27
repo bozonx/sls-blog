@@ -1,5 +1,5 @@
 ---
-title: Why denial of addiction makes us see it everywhereHave you ever decided to give up sweets or flour coffee, cigarettes, alcohol, etc. and then at some point you started to consume even more of that substance?
+title: Why denial of addiction makes us see it everywhere
 date: 2022-08-09T00:00-03:00
 description: ""
 previewText: ""
