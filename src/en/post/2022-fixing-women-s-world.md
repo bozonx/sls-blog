@@ -12,7 +12,8 @@ videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - world impact
 ---
 In [last article](2022-women-s-world-how-women-influence-men) we looked at how women influence us and how they shape public opinion to make the world comfortable for themselves and not comfortable for men.
 

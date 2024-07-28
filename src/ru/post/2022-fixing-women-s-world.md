@@ -12,7 +12,8 @@ videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - влияние на мир
 ---
 В [прошлой статье](2022-women-s-world-how-women-influence-men) мы рассматривали как женщины на нас влияют и как они формируют общественное мнение, чтобы сделать мир удобным для себя и не удобным для мужчин.
 
