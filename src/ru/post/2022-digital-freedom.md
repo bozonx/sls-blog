@@ -4,7 +4,7 @@ date: 2022-08-10T11:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-digital-freedom.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/33
