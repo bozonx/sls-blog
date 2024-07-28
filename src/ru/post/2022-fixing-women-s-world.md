@@ -4,10 +4,10 @@ date: 2022-08-27T21:02-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-fixing-women-s-world.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/slsfreedom/56
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
