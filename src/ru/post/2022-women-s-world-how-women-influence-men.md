@@ -4,7 +4,7 @@ date: 2022-08-26T21:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-women-s-world-how-women-influence-men.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/54
