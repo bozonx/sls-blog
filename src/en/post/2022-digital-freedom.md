@@ -12,7 +12,8 @@ videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - digital freedom
 ---
 One of the areas of the Personal Freedom System is digital freedom. At the initial stage it may not seem as important for many people as financial freedom and freedom in relationships, but it will be great to think about it now. Because digital freedom gives you that extraordinarily high feeling of freedom, once you feel it, you will never want to go back to the slavery of the system. It's hard to put it into words, it's like a feeling of awareness and even some kind of spiritual enlightenment, you just have to feel it. Of course, not only digital freedom can cause this unforgettable feeling, but also other directions, but now we will talk about digital freedom.
 
