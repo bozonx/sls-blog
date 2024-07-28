@@ -1,13 +1,13 @@
 ---
 title: Женский мир. Как женщины влияют на мужчин
-date: 2022-08-25T21:00-03:00
+date: 2022-08-26T21:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/slsfreedom/54
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
