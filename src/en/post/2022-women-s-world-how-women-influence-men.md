@@ -34,4 +34,4 @@ The techniques are primitively simple - ridicule, humiliation of undesirable beh
 
 The list goes on and on, but I think you get the main point - women, by constant pressure on society, have managed to make the world very comfortable for themselves. Women have forced men to submit to their rules and strive to meet women's standards of a real man. And if someone doesn't conform, they will receive pain that not everyone can bear, such as being banished from the community, becoming a loner against the majority. The rebel will be labeled as abnormal, humiliated through sexuality, claiming that women just don't give him any. Women turn society against free men.
 
-The problem is that women have created an unjust world convenient only for themselves, but very inconvenient for men, especially for free men.
+The problem is that women have created an unjust world convenient only for themselves, but very inconvenient for men, especially for free men. In [next article](2022-fixing-women-s-world) talk about how we can counter this and how we ourselves can influence the world.
