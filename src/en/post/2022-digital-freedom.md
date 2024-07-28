@@ -29,4 +29,4 @@ One of the areas of the Personal Freedom System is digital freedom. At the initi
 
 You will have to do a little bit of fiddling and understand some technical aspects, but don't let that scare you, I will try to present the information to you in the most understandable language and so that you can achieve at least a basic level of digital freedom even without a serious technical background.
 
-In the next article on digital freedom, we will talk about the levels of digital freedom and what you need to do to achieve it.
+In [the next article](2022-levels-of-digital-freedom) on digital freedom, we will talk about the levels of digital freedom and what you need to do to achieve it.
