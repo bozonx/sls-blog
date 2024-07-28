@@ -4,7 +4,7 @@ date: 2022-08-10T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-female-images.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
