@@ -1,6 +1,6 @@
 ---
 title: Исправляем женский мир
-date: 2022-08-27T21:02-03:00
+date: 2022-08-27T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
