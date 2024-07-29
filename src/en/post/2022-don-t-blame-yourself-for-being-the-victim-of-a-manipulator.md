@@ -12,7 +12,8 @@ videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - psychology
 ---
 You have analyzed your environment, as we discussed in [the article on how to get out from under manipulation](2022-how-to-get-out-from-under-manipulation-first-we-discover-the-connections), and you have discovered the manipulators around you and how they bind you and affect you negatively. Yes, you have to admit that, unfortunately, you have fallen victim to them. But you should not blame and blame yourself for this.
 
