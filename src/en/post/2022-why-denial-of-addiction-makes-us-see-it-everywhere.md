@@ -15,7 +15,6 @@ authorId: ivan-k
 tags:
   - addiction
 ---
-
 Have you ever decided to give up sweets or flour, coffee, cigarettes, alcohol, etc. and then at some point you started to consume more of this substance?
 
 So there are several mechanisms involved here, let's go through them in order.
