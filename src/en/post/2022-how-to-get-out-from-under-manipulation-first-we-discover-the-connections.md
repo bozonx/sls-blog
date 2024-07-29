@@ -60,3 +60,5 @@ Before you exclude the manipulator from your life, you must first discover all c
 - Analyze your relationship with the manipulator.
 - You can cut ties slowly, take your stuff, money, give him/her what you owe.
 - Ask him/her to untie his/her bank card, return the SIM card, ask him/her to re-register on websites and applications to his/her accounts instead of yours, etc. Explain that you have become concerned about your personal data online
+
+[Continued](2022-don-t-blame-yourself-for-being-the-victim-of-a-manipulator)
