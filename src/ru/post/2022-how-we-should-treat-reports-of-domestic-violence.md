@@ -4,7 +4,7 @@ date: 2022-08-20T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-how-we-should-treat-reports-of-domestic-violence.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/48
