@@ -4,7 +4,7 @@ date: 2022-08-28T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-don-t-blame-yourself-for-being-the-victim-of-a-manipulator.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
