@@ -4,7 +4,7 @@ date: 2022-09-05T21:52-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2022-we-shouldn-t-care-about-women-s-problems.avif
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/70
