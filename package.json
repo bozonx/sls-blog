@@ -1,6 +1,6 @@
 {
   "name": "sls-blog",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Blog of The system of personal freedom",
   "type": "module",
   "author": "(Ivan Kozyrin <ipkozyrin@gmail.com>)",
@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "vitepress": "^1.3.0",
-    "vitepress-sls-blog-tmpl": "^0.11.1"
+    "vitepress-sls-blog-tmpl": "^0.11.2"
   }
 }
