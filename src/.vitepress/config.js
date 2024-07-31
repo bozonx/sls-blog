@@ -19,6 +19,9 @@ export default {
   },
 
   head: [
+    // do not recognize telephone numbers on the page
+    ["meta", { name: "format-detection", content: "telephone=no" }],
+
     [
       "script",
       {

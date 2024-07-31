@@ -961,9 +961,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.820:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.3.tgz#032bbb8661c0449656fd896e805c8f7150229a0f"
-  integrity sha512-QNdYSS5i8D9axWp/6XIezRObRHqaav/ur9z1VzCDUCH1XIFOr9WQk5xmgunhsTpjjgDy3oLxO/WMOVZlpUQrlA==
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.4.tgz#cd477c830dd6fca41fbd5465c1ff6ce08ac22343"
+  integrity sha512-orzA81VqLyIGUEA77YkVA1D+N+nNfl2isJVjjmOyrlxuooZ19ynb+dOlaDTqd/idKRS9lDCSBmtzM+kyCsMnkA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2296,10 +2296,10 @@ vite@^5.3.3:
   optionalDependencies:
     fsevents "~2.3.3"
 
-vitepress-sls-blog-tmpl@^0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.11.0.tgz#2cd406d46ac2d43ef91ad441bd474babce5b0eeb"
-  integrity sha512-u4kjAIKXKDFTt31xugzhcf2ai9VVSmBrtHBrp/fV2kWWY6EbJYMpvl+eKYOzMbywGOg7rwcwSCebM710+IVdig==
+vitepress-sls-blog-tmpl@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.11.1.tgz#c0e0dbf0d74fc42760b632afb9ed2297cacd311f"
+  integrity sha512-ldvpXOIueAzC90anWdiabAPwLnoFeYAPLnO4lX6KMBh+dKEv7blzUZ4h0iTTA/mbxKZSVF3UNIElOwk6aL4TUQ==
   dependencies:
     "@iconify/vue" "^4.1.2"
     "@mdit/plugin-figure" "^0.12.0"
