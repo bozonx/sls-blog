@@ -1,18 +1,6 @@
 User-agent: *
 Disallow: /admin
 
-Disallow: /ru/archive
-Disallow: /ru/recent
-Disallow: /ru/tag/
-Disallow: /ru/authors
-Disallow: /ru/tags
-
-Disallow: /en/archive
-Disallow: /en/recent
-Disallow: /en/tag/
-Disallow: /en/authors
-Disallow: /en/tags
-
 Disallow: /*utm_
 Disallow: /*?m=1
 Allow: /

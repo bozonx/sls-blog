@@ -16,6 +16,7 @@ export default {
   themeConfig: {
     ...configBase.themeConfig,
     showAuthorInPostList: false,
+    homeBgParalaxOffset: 150,
   },
 
   head: [
