@@ -1,6 +1,6 @@
 ---
 title: We shouldn't care about women's problems
-date: 2022-09-05T21:52-03:00
+date: 2022-09-05T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

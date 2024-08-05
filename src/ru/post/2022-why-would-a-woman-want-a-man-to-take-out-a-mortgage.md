@@ -1,6 +1,6 @@
 ---
 title: Почему женщина хочет чтобы мужчина взял ипотеку?
-date: 2022-08-17T00:00-03:00
+date: 2022-08-17T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

@@ -1,6 +1,6 @@
 ---
 title: Let's talk about luck
-date: 2022-08-07T00:00-03:00
+date: 2022-08-07T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

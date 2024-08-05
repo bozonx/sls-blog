@@ -1,6 +1,6 @@
 ---
 title: Fixing women's world
-date: 2022-08-27T00:00-03:00
+date: 2022-08-27T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

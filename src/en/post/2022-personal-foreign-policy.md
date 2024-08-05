@@ -1,6 +1,6 @@
 ---
 title: Personal foreign policy
-date: 2022-08-11T00:00-03:00
+date: 2022-08-11T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

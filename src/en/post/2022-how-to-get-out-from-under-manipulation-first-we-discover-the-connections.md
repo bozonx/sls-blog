@@ -1,6 +1,6 @@
 ---
 title: How to get out from under manipulation. First, we discover the connections
-date: 2022-08-18T00:00-03:00
+date: 2022-08-18T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

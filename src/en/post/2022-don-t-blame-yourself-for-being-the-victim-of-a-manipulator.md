@@ -1,6 +1,6 @@
 ---
 title: Don't blame yourself for being the victim of a manipulator
-date: 2022-08-28T00:00-03:00
+date: 2022-08-28T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

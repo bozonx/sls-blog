@@ -1,6 +1,6 @@
 ---
 title: Почему отказ от зависимости заставляет нас видеть её повсюду
-date: 2022-08-09T00:00-03:00
+date: 2022-08-09T11:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

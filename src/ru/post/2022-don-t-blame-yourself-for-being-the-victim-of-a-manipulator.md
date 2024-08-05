@@ -1,6 +1,6 @@
 ---
 title: Не вините себя в том что вы стали жертвой манипулятора
-date: 2022-08-28T00:00-03:00
+date: 2022-08-28T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

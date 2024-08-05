@@ -1,6 +1,6 @@
 ---
 title: Why would a woman want a man to take out a mortgage?
-date: 2022-08-17T00:00-03:00
+date: 2022-08-17T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

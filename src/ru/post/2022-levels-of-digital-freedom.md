@@ -1,6 +1,6 @@
 ---
 title: Уровни цифровой свободы
-date: 2022-08-12T00:00-03:00
+date: 2022-08-12T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

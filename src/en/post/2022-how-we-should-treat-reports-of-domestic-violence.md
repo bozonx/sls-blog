@@ -1,6 +1,6 @@
 ---
 title: How we should treat reports of domestic violence
-date: 2022-08-20T00:00-03:00
+date: 2022-08-20T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

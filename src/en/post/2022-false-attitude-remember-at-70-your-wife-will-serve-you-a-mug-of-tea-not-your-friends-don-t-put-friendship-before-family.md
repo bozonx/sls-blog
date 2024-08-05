@@ -1,6 +1,6 @@
 ---
 title: "False Attitude: Remember! At 70, your wife will serve you a mug of tea, not your friends. Don't put friendship before family"
-date: 2022-08-06T00:00-03:00
+date: 2022-08-06T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

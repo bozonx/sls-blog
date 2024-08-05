@@ -1,6 +1,6 @@
 ---
 title: Как выйти из-под манипуляций. Сначала обнаруживаем связи
-date: 2022-08-18T00:00-03:00
+date: 2022-08-18T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

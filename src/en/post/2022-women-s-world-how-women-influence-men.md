@@ -1,6 +1,6 @@
 ---
 title: Women's World. How women influence men
-date: 2022-08-26T00:00-03:00
+date: 2022-08-26T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

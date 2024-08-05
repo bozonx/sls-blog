@@ -1,6 +1,6 @@
 ---
 title: Is a woman lying when she says her husband beat her?
-date: 2022-08-15T00:00-03:00
+date: 2022-08-15T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
