@@ -17,8 +17,8 @@ export default {
     ...configBase.themeConfig,
     showAuthorInPostList: false,
     homeBgParalaxOffset: 150,
+    sidebarLogoSrc: "/img/sidebar-logo.webp",
   },
-
   head: [
     ...configBase.head,
     // do not recognize telephone numbers on the page

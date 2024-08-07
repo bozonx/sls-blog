@@ -2,3 +2,7 @@
   background-image: url("/img/home-bg.webp");
   background-color: #000;
 }
+
+.sidebar-logo {
+  border-bottom: 1px solid black;
+}
