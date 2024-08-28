@@ -11,7 +11,7 @@
     "preview": "vitepress preview src"
   },
   "dependencies": {
-    "vitepress": "^1.3.3",
-    "vitepress-sls-blog-tmpl": "^0.11.9"
+    "vitepress": "^1.3.4",
+    "vitepress-sls-blog-tmpl": "^0.12.0"
   }
 }
