@@ -12,3 +12,5 @@ onMounted(() => {
   if (inBrowser) window.location.replace(`/${localeIndex.value}/recent/1`);
 });
 </script>
+
+<div></div>
