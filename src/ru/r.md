@@ -1,3 +1,7 @@
+---
+layout: false
+---
+
 <script setup>
 import { onMounted } from "vue";
 import { useData, inBrowser } from "vitepress";
