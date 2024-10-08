@@ -26,8 +26,9 @@ collections:
     label_singular: Post
     description: All the posts
     i18n: true
+    # folder: "src/{{locale}}/post"
     folder: "src"
-    path: "post/{{slug}}"
+    # path: "post/{{slug}}"
     slug: "{{date | date('YYYY')}}-{{slug}}"
     preview_path: "{{locale}}/post/{{slug}}"
     create: true
