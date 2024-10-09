@@ -2326,10 +2326,10 @@ vite@^5.4.8:
   optionalDependencies:
     fsevents "~2.3.3"
 
-vitepress-sls-blog-tmpl@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.14.0.tgz#00bd25d2a0ae8d6148379efd97081008273f77d8"
-  integrity sha512-kxQKw+nyxYTqxw/gnvsc/NnKre6kmp68Gu/VNXlvedZj6uiyFCeXk5gprXtr3UicIQtpcZ5a1Fd7Y9E10j6avw==
+vitepress-sls-blog-tmpl@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/vitepress-sls-blog-tmpl/-/vitepress-sls-blog-tmpl-0.15.0.tgz#dcb9ede2e75cdf34e937c4c1217256775237f8d9"
+  integrity sha512-wuHf/JEz8yTLuRBoi56KxRsawzxIN2r54Z9tazqfWqEHPcC5OR6hj3OdY7r3dEG3MFkumI2DT9N/4hiEHpd8Xg==
   dependencies:
     "@iconify/vue" "^4.1.2"
     "@mdit/plugin-figure" "^0.13.0"

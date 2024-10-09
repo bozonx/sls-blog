@@ -15,7 +15,10 @@ authorId: ivan-k
 tags:
   - women
 ---
-> 16+ Disclaimer: so that I'm not accused of discrediting family values or something similar, I declare that the method I propose is oriented only towards free men and all information is oriented towards them, not everyone. I do not call for the rejection of traditional values by large masses of people, but for those who can think and notice that something is wrong here, I show that there is another choice, while not calling for anything. Also, there is no hatred towards women in this issue, and I certainly don't call for that. If something seemed that way to you, it means that you misunderstood me.
+
+> 16+
+>
+> Disclaimer: so that I'm not accused of discrediting family values or something similar, I declare that the method I propose is oriented only towards free men and all information is oriented towards them, not everyone. I do not call for the rejection of traditional values by large masses of people, but for those who can think and notice that something is wrong here, I show that there is another choice, while not calling for anything. Also, there is no hatred towards women in this issue, and I certainly don't call for that. If something seemed that way to you, it means that you misunderstood me.
 
 ## Current Situation with Men's Rights
 
@@ -272,7 +275,11 @@ As for where to get acquainted, everything is simple here - just a dating app. A
 
 What should I write in my profile? I recommend that you write down the conditions briefly right away. For example, I propose such a text.
 
-> I am looking for a woman for a friendly sexual relationship, I will pay $ 100 per month, a bargain is possible. I need to clean the house once a week, cook food, do other household chores and give me a massage a couple of times a week.We will live with me | You will come to me 2-3 times a week, I will pay for public transport.In the future, I would like to have children, then I will increase the payment for child care for 3 years and make a one-time payment of a large amount after you give up your legal rights to the child, but at the same time you will not lose the opportunity to communicate with him and this will not affect our relationship in any way.
+> I am looking for a woman for a friendly sexual relationship, I will pay $ 100 per month, a bargain is possible. I need to clean the house once a week, cook food, do other household chores and give me a massage a couple of times a week.
+>
+> We will live with me | You will come to me 2-3 times a week, I will pay for public transport.
+>
+> In the future, I would like to have children, then I will increase the payment for child care for 3 years and make a one-time payment of a large amount after you give up your legal rights to the child, but at the same time you will not lose the opportunity to communicate with him and this will not affect our relationship in any way.
 
 You can start from this text, add something, remove something, do not talk about the child if you do not need it, choose one of the options either living together, or she will come to you 2-3 times a week.
 

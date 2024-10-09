@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "vitepress": "^1.4.0",
-    "vitepress-sls-blog-tmpl": "^0.14.0"
+    "vitepress-sls-blog-tmpl": "^0.15.0"
   }
 }
