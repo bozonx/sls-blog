@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-is-money-energy--1242x908.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/63
+commentUrl: https://t.me/ivan_k_freedom/63
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - деньги
 ---
+
 Деньги это действительно энергия, как утверждают любители эзотерики, или это очень прозаичная вещь? Давайте разбираться.
 
 Я выражу свое мнение, основанное на своем опыте и знаниях которые я проанализировал и смог выработать определенное мнение по этому поводу. Но конечно я не останавливаюсь и продолжаю изучать тему финансов.

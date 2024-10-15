@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-why-denial-of-addiction-makes-us-see-it-everywhere.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/29
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - addiction
 ---
+
 Have you ever decided to give up sweets or flour, coffee, cigarettes, alcohol, etc. and then at some point you started to consume more of this substance?
 
 So there are several mechanisms involved here, let's go through them in order.

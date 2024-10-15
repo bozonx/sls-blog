@@ -7,13 +7,14 @@ descrAsPreview: true
 cover: /media/2022-how-we-should-treat-reports-of-domestic-violence.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/48
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
 tags: []
 ---
+
 Women, especially feminists, love the topic of domestic violence because it's a great opportunity for them to dub all men aggressors and rapists.
 
 Unfortunately, they have succeeded in many ways. Yes, they were not able to push through a law on "family violence" in the State Duma in Russia, which unambiguously defined all men as aggressors and removed all responsibility for domestic violence from women. But they still managed to convince society that women are not guilty by default, and men are aggressors by default. And not only society, but even worse, police officers, judges, bailiffs, guardianship officers, juvenile inspectors - they are all on the side of women. Feminists themselves occupy positions of judges who work with family cases, guardianship representatives and juvenile inspectors. It is also a guarantee that in case of divorce the child will stay with the mother, and only she will decide whether the father can see the child or not. So men's rights are only on paper in the family code, in reality men have almost no rights, only responsibilities (this is in case you did not know).

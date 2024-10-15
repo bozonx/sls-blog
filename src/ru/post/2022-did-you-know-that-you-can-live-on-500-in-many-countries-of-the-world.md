@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-did-you-know-that-you-can-live-on-500-in-many-countries-of-the-world--1000x667.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/52
+commentUrl: https://t.me/ivan_k_freedom/52
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - улучшаем свою жизнь
 ---
+
 Сейчас, в связи с ситуацией в России, Украине, Белоруссии, да и в Казахстане многие люди рассматривают вопрос переезда.
 
 Самые популярные направления: Турция, Грузия, Бали, Филипины, Гоа, Кипр и Черногория. Конечно, в разгар туристического сезона цены завышены, но сезон скоро закончится. Так вот во всех вышеперечисленных странах вы сможете жить один на 500$ и:

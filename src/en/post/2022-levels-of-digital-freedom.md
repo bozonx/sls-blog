@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-levels-of-digital-freedom.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/39
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - digital freedom
 ---
+
 In the last [article](2022-digital-freedom) we were introduced to what digital freedom is, now let's break it down into levels for convenience and to avoid confusion.
 
 ## Basic principles of the basic level:

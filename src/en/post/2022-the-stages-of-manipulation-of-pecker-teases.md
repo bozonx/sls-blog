@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-the-stages-of-manipulation-of-pecker-teases--900x478.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/61
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - manipulations
 ---
+
 In [previous article](2022-how-to-recognize-a-pecker-tease) we looked at who dynamos are and why we should avoid them as soon as we spot them. Now we'll look at the stages of their manipulation.
 
 ## The first stage of manipulation is to create the illusion of increased interest in a man
@@ -25,7 +26,7 @@ In [previous article](2022-how-to-recognize-a-pecker-tease) we looked at who dyn
 - She tries to cause a man to think - suddenly she is really interested in me, but just hides it and she is really so all feminine - she is what I need. This thought will not allow the man to jump off the manipulation. The dynamist constantly creates confirmations of this thought and tries to keep the man in the flow of thoughts necessary for her
 - Some dynamists, on the contrary, show disinterest from the very beginning, which instantly generates the necessary thoughts in the man - I need to do something to make her interested. This is what more experienced dynamos do, they are just too lazy to show interest and play the good girl. They use a tougher technique and go straight to the second stage.
 
-## The second stage is a decline in interest and emotional swinging ##
+## The second stage is a decline in interest and emotional swinging
 
 On the second date or the 2nd part of the first date if it's been going on too long, she starts to decrease interest, either smoothly or abruptly. She has two goals here
 

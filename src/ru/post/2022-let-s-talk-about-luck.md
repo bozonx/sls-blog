@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-let-s-talk-about-luck.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/16
+commentUrl: https://t.me/ivan_k_freedom/16
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - мышление
 ---
+
 Как обычный человек воспринимает удачу:
 
 Это неожиданное и необоснованное наступление какого-то события которое имеет позитивный эффект. Если эффект негативный, то он трактуется как неудача.

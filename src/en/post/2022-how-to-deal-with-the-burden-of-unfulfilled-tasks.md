@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-how-to-deal-with-the-burden-of-unfulfilled-tasks.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/25
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - planning
 ---
+
 Do you now have a feeling that you have a big load of tasks, responsibility, because of this everything seems in dark colors? And when you remember about important tasks, you twitch, it can even manifest itself outwardly: you can say or do something unconsciously, twitch or sharply shift your gaze.
 
 All this suggests that you have one or more tasks that you do not want to do, the deadlines are missed and there is no strength and motivation to admit to yourself in your laziness and start doing something.
@@ -52,7 +53,7 @@ So what to do? After all, there is no strength to fulfill all that impossible lo
 - After completing this task, you will finally be able to do something that is really important to you.
 - You can think of a reward after you complete the task. But it's better if it's something that doesn't involve quick gratification. Drinking alcohol or eating something sweet doesn't work. It is better, for example, to go for a rest on the sea or in the forest, to walk at sunset, to ride for pleasure on a car or motorcycle on your favorite track with your favorite music, etc. In general, what you like and what you get high from
 
-## After that ## After that ##
+## After that ## After that
 
 - Consider: how I got into this in the first place and how I can avoid such problems in the future and try not to take on tasks from the person who imposes them on me in a manipulative way.
 - Consider keeping a list of tasks for each day, week, month, year. To prevent yourself from taking on destructive tasks and be focused on your own tasks, not someone else's.

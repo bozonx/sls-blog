@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-why-would-a-woman-want-a-man-to-take-out-a-mortgage.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/46
+commentUrl: https://t.me/ivan_k_freedom/46
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - женщины
 ---
+
 Основная цель это получить полный контроль над мужчиной. Грубо говоря, крепко держать его за яйца. А также, что даже более важно, в случае развода получить половину или всю квартиру при этом ничего в нее не вложив.
 
 ## Конечно она может говорить что:

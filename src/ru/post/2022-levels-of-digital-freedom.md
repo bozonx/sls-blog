@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-levels-of-digital-freedom.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/39
+commentUrl: https://t.me/ivan_k_freedom/39
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - цифровая свобода
 ---
+
 В прошлой [статье](2022-digital-freedom) мы познакомились с тем что такое цифровая свобода, а теперь давайте разобьём её на уровни для удобства и чтобы не запутаться.
 
 ## Основные принципы базового уровня:

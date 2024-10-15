@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-female-images.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/35
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,9 +15,10 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 Women create attractive images for men in clothing, behavior and in general try on a variety of different and proven images, the ideas of which they draw from various sources of information such as television, the Internet, social networks, from girlfriends, from women's magazines and simply by observing other women.
 
-Not once have I heard objections from some women that they dress for themselves, not for men.  But we realize that if they were dressing for themselves, they would prefer comfortable clothes, but sexy clothes and shoes are often uncomfortable. They wouldn't wear thongs, heels, tight clothes, or short skirts and shorts. The same goes for images; they wouldn't portray innocent girls, femme fatales and the like unless those images were aimed at men. Women deny this in order to hide their manipulative influence on men.
+Not once have I heard objections from some women that they dress for themselves, not for men. But we realize that if they were dressing for themselves, they would prefer comfortable clothes, but sexy clothes and shoes are often uncomfortable. They wouldn't wear thongs, heels, tight clothes, or short skirts and shorts. The same goes for images; they wouldn't portray innocent girls, femme fatales and the like unless those images were aimed at men. Women deny this in order to hide their manipulative influence on men.
 
 ## What do they do it for?
 

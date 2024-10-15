@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-don-t-blame-yourself-for-being-the-victim-of-a-manipulator.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/58
+commentUrl: https://t.me/ivan_k_freedom/58
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - психология
 ---
+
 Вы проанализировали своё окружение, как мы говорили в [статье о том как выйти из-под манипуляций](2022-how-to-get-out-from-under-manipulation-first-we-discover-the-connections), и обнаружили манипуляторов около себя и то как они вас привязывают и как на вас негативно влияют. Да, надо признать что, к большому сожалению, вы стали их жертвой. Но не надо винить и корить себя за это.
 
 Манипуляторы развивали свои навыки всю жизнь и действуют медленно, поэтапно, так что бы жертва не заметила их воздействия. На манипуляции может попасться абсолютно любой человек, даже с виду сильный. Но научившись их распознавать, вы больше никогда не попадёте под власть манипулятора.

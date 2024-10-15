@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-toxic-sex-appeal.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/78
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 Let's talk about feminine, overly sexy casual outfits. These are leggings, bikinis, very short skirts, deep cleavage, nude tops, etc.
 
 ## Is there a problem?

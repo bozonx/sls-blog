@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-false-attitude-remember-at-70-your-wife-will-serve-you-a-mug-of-tea-not-your-friends-don-t-put-friendship-before-family.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/10
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - imposed beliefs
 ---
+
 Women love to repeat this attitude, but what's wrong with this statement? Let's get to the bottom of it:
 
 1. A call to action with the word "remember", which implies that the following phrase is something very important that does not require doubt and discussion

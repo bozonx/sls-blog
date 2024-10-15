@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-a-woman-is-considered-strong-not-because-she-created-something-beautiful-but-because-she-destroyed-a-marriage-and-deprived-children-of-a-father.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/69
 videoLink: ""
 videoLinkLang: ""
 podcasts: null

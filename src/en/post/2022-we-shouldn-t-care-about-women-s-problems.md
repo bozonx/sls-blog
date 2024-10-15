@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-we-shouldn-t-care-about-women-s-problems.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/70
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 First of all, they created all these problems they loudly claim to have. Secondly, all their problems are related to men. Thirdly, their problems are not really problems, but pressure on men. They try to convince men of their problems, and if a naive "deer" man agrees to help, he will harm another man or male society as a whole.
 
 The essence of women's problems is always the man's fault, and she is the poor unfortunate victim.

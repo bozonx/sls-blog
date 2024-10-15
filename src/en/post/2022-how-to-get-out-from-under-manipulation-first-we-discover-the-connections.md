@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-how-to-get-out-from-under-manipulation-first-we-discover-the-connections.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/47
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,9 +15,10 @@ authorId: ivan-k
 tags:
   - manipulations
 ---
+
 As we said [earlier](2022-about-manipulation), associating with a manipulator is not good for you. The manipulator can be your girlfriend/wife, one of your "friends", a relative (brother, sister, parents) or a colleague at work. In general, a person from your inner circle. Exactly from the inner circle, because the manipulator has already gotten close to you. When he was in the far circle, he seemed nice, obliging and courteous. But all this was necessary to put your guard down and get closer to you.
 
-## What tips you might hear on how to deal with a manipulative man ##
+## What tips you might hear on how to deal with a manipulative man
 
 - Learn to be manipulative too and outplay the manipulator, even manipulate the manipulator yourself. This kind of advice on women can be heard on the Men's Movement and similar groups
 - Talk to the manipulator, tell him what he does wrong, that he affects your feelings and hope that he will understand everything and stop behaving like this. Such advice is given by people who do not understand the issue of manipulation. The saddest thing is that such advice is given by "psychologists", who by the nature of their work just and should be well versed in it
@@ -27,7 +28,7 @@ As we said [earlier](2022-about-manipulation), associating with a manipulator is
 
 In my opinion, the only working and most effective way is to break all ties with the manipulator and not to see or communicate with him anymore. Or, if you still can not completely exclude him from your life, then become no more than an acquaintance with whom you only say hello, it is quite enough to keep him at the necessary distance. It sounds easy, but to do it is not so easy, but we will learn. The main thing is to do it properly.
 
-## Discover all the connections you have with him ##
+## Discover all the connections you have with him
 
 Before you exclude the manipulator from your life, you must first discover all connections with him. Manipulator as a spider envelops the victim with different connections so that the victim can not escape. For example:
 
@@ -37,14 +38,14 @@ Before you exclude the manipulator from your life, you must first discover all c
 - He may have loaned you something. Things or money.
 - You have a mutual good friend or relative who is similarly influenced by the manipulator. And the manipulator will say mean things about you to that good person.
 
-## What the manipulator is parasitizing on ##
+## What the manipulator is parasitizing on
 
 - Your hyper-responsibility
 - On your high moral standards.
 - On the fact that he'll smear your reputation if you stop obeying him.
 - On the fact that you don't seem to have a clear reason to demand the return of some item or a small amount of money. And you're embarrassed to say so. So you can't break the connection.
 
-## Examples ##
+## Examples
 
 - Gave you a book to read that you didn't really ask for. This is what they do in cults. You didn't really want to read it, but since you didn't read it, there's no point in giving it to them. And since you have the book, you can't exclude the owner of the book from your life. And you're already on the hook
 - Manipulator can ask to link your bank card to some application, as if he himself can not do it. And it turns out that you are embarrassed to ask him to untie it, because there seems to be no reason for it, and you don't know how to explain it to him.

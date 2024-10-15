@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-friendly-acquaintances.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/75
+commentUrl: https://t.me/ivan_k_freedom/75
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - окружение
 ---
+
 В сети можно найти много информации по пикапу и меньше по нетворкингу. Но я хочу вас познакомить с немного другим типом знакомства, который является частью концепции свободного мужчины Системы Личной Свободы.
 
 ## Рассмотрим в чем отличаются цели знакомств

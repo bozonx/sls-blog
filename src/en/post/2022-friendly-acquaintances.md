@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-friendly-acquaintances.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/75
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - surroundings
 ---
+
 You can find a lot of information online on pickup and less on networking. But I want to introduce you to a slightly different type of dating, which is part of the Personal Freedom System's free man concept.
 
 ## Let's take a look at the differences in the goals of dating

@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-fixing-women-s-world.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/56
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,13 +15,14 @@ authorId: ivan-k
 tags:
   - world impact
 ---
+
 In [last article](2022-women-s-world-how-women-influence-men) we looked at how women influence us and how they shape public opinion to make the world comfortable for themselves and not comfortable for men.
 
 ## So what to do?
 
 1. Don't give in to pressure from women. Your life belongs to you, not to them. You are free to behave and dress as you please.
 2. There's no escaping conflict. But you will see the real essence of women - how crazy and aggressive they are, craving unconditional control over men. In fact, it is a great experience, participating in conflicts you will learn a lot and very quickly you will grow and become free from public opinion
-3- Don't give up under the pressure of women. Their task is to break you, just stand and you will stand, they can not do anything to you
+   3- Don't give up under the pressure of women. Their task is to break you, just stand and you will stand, they can not do anything to you
 3. Tell other men about women's manipulations and the true nature of women.
 4. Start influencing the world yourself, but with healthy ideas, unlike women.
 
@@ -38,7 +39,7 @@ In [last article](2022-women-s-world-how-women-influence-men) we looked at how w
 - Whenever possible, broadcast the right picture of the world, and criticize the wrong one.
 - Don't be afraid of the pain women want to inflict on you, such as making you an outcast, crazy in the eyes of the community or degrading your sexuality - this pain is virtual, but if they can push you or other men around, the consequences will be real - your mental well-being will deteriorate and the world will become a little worse and you will become worse off in it.
 
-## You can't negotiate with feminists ##
+## You can't negotiate with feminists
 
 Remember that feminists are impossible to negotiate with and find common ground with, not because we don't want to, but because they don't want to. If you think you have found common ground with feminists, don't be fooled, it's probably just another feminist manipulation. Don't become as crazy and aggressive as feminists. Never let feminists into your community - they are sure to destroy it from within. Do not do good to feminists, they will never be grateful to you, for them you will always be the enemy. Don't forget that feminists don't create anything, they only destroy it.
 

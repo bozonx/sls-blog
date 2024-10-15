@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-about-manipulation.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/38
+commentUrl: https://t.me/ivan_k_freedom/38
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - манипуляции
 ---
+
 ## Что такое вообще манипуляция?
 
 Это скрытое воздействие на человека с целью заставить его действовать нужным для манипулятора образом.

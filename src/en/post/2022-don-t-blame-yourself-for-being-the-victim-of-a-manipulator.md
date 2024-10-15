@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-don-t-blame-yourself-for-being-the-victim-of-a-manipulator.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/58
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - psychology
 ---
+
 You have analyzed your environment, as we discussed in [the article on how to get out from under manipulation](2022-how-to-get-out-from-under-manipulation-first-we-discover-the-connections), and you have discovered the manipulators around you and how they bind you and affect you negatively. Yes, you have to admit that, unfortunately, you have fallen victim to them. But you should not blame and blame yourself for this.
 
 Manipulators have developed their skills all their lives and act slowly, step by step, so that the victim would not notice their influence. On manipulation can fall absolutely any person, even with the appearance of strong. But once you learn to recognize them, you will never fall under the manipulator's power again.

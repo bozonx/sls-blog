@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-substitution-of-concepts.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/71
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - manipulations
 ---
+
 Consider the manipulation technique - substitution of concepts. It is very widely used by women, political and social organizations. But despite its prevalence, this manipulation remains unnoticed by most members of society.
 
 The main reason for this is the very destructive impact of manipulators during our lives, who laid down to us the necessary **they** and absolutely **not** necessary **to us** thoughts and picture of the world. And also the fact that most people do not analyze the knowledge and beliefs they already have - everything that has passed into the core of the personality is perceived as their personality and therefore there can be no doubts, otherwise there is a danger to start doubting yourself.

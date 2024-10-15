@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-is-money-energy--1242x908.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/63
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - money
 ---
+
 Is money really energy, as esotericists claim, or is it a very prosaic thing? Let's understand.
 
 I will express my opinion based on my experience and knowledge that I have analyzed and was able to develop a certain opinion on this subject. But of course I do not stop and continue to study the topic of finance.

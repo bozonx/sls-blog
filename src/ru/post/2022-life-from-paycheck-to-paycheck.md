@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-life-from-paycheck-to-paycheck.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/41
+commentUrl: https://t.me/ivan_k_freedom/41
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - деньги
 ---
+
 Так живут многие и это считается нормой. Но что не так?
 
 ## Первое, это иллюзия стабильности

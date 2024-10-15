@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-a-free-man-need-not-be-poor.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/32
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - money
 ---
+
 Not poor means that you have free money, manage your expenses wisely and have a good source of income or even several. All this makes you feel independent, not stressed about money and makes you feel freer and happier. This is what personal finance management is all about, not becoming a slave to money in blind pursuit of it.
 
 ## Basic Principles

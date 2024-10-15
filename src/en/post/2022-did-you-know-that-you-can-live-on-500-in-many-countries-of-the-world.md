@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-did-you-know-that-you-can-live-on-500-in-many-countries-of-the-world--1000x667.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/52
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - improve our lives
 ---
+
 Now, due to the situation in Russia, Ukraine, Belarus, and Kazakhstan, many people are considering moving.
 
 The most popular destinations are Turkey, Georgia, Bali, the Philippines, Goa, Cyprus and Montenegro. Of course, at the height of the tourist season prices are inflated, but the season will soon be over. So in all of the above countries you can live alone on $ 500 and:

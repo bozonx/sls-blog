@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-the-difference-between-men-s-and-women-s-life-priorities.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/49
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 ## Finance
 
 A man in a marriage earns money to support himself and his family. Women in marriage earn money for themselves and secretly from their husbands make deposits, buy or mortgage a house, which they rent out. They argue that when he leaves me, I will have a place to live and I will get something from the marriage. At the same time, she herself lives at the expense of her husband. That means that her husband is implicitly invested in her secret dwelling or deposit.

@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-women-s-world-how-women-influence-men.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/54
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 Let's take a look at how women in general correct male behavior, appearance and what techniques they use.
 
 The techniques are primitively simple - ridicule, humiliation of undesirable behavior and style of dress, while encouraging men's behavior and appearance that is beneficial for women. Of course, this is a very destructive influence on us, as many men are persecuted undeservedly and it greatly affects our choices and our life line and whether we live as we want or obey the demands of women. And no matter how primitive this manipulation is, it is still not visible to most men.

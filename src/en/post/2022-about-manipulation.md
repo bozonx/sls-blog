@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-about-manipulation.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/38
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - manipulations
 ---
+
 ## What is manipulation anyway?
 
 It is the covert influence on a person in order to make him/her act in the way desired by the manipulator.

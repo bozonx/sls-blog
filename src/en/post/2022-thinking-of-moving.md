@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-thinking-of-moving.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/20
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - improve our lives
 ---
+
 Let's first decide if your current place of residence really does not suit you. Make a list of pros and cons and answer the following questions:
 
 - Are there any factors that keep me here: dependents or elderly relatives who need care, children from my ex-wife, valuable friends who will lose touch when I move, a good job. And whether you're willing to give it all up

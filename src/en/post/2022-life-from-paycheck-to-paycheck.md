@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-life-from-paycheck-to-paycheck.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/41
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - money
 ---
+
 That's how many people live and it's considered the norm. But what's wrong with it?
 
 ## First, it's the illusion of stability

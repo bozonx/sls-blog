@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-why-would-a-woman-want-a-man-to-take-out-a-mortgage.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/46
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,9 +15,10 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 The main goal is to gain complete control over a man. Roughly speaking, to hold him by the balls. And also, which is even more important, in case of divorce to get half or all of the apartment without having invested anything in it.
 
-### Of course she can say what she wants to say ###
+### Of course she can say what she wants to say
 
 - "We need to live somewhere like normal people, enough with the rented apartments. We've got to build our own family nest.
 - It's better to take a mortgage, so at least you pay yourself, not someone else's uncle and in 20 years you'll have your own apartment.

@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-the-stages-of-manipulation-of-pecker-teases--900x478.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/61
+commentUrl: https://t.me/ivan_k_freedom/61
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - манипуляции
 ---
+
 В [предыдущей статье](2022-how-to-recognize-a-pecker-tease) мы рассмотрели кто такие динамщицы и почему нам стоит их избегать как только мы их обнаружим. А сейчас мы разберем этапы их манипуляции.
 
 ## Первый этап манипуляции это создание иллюзии повышенного интереса к мужчине

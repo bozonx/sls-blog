@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-is-a-woman-lying-when-she-says-her-husband-beat-her.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/45
+commentUrl: https://t.me/ivan_k_freedom/45
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - женщины
 ---
+
 Думаю многие слышали слезливые рассказы знакомых женщин о том что бывший ее бил. И, на удивление, все эти рассказы похожи как 2 капли воды. Суть их такая: бывший ни с того ни с сего взял и ударил её, а она просто сидела ничего не делала. Не кажется ли вам что звучит подозрительно? Давайте разбираться.
 
 ## Она сама определяет что является агрессией

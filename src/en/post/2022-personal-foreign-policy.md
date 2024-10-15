@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-personal-foreign-policy.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/36
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - mind
 ---
+
 Just as states have their internal and external policies to influence the situation inside and outside the country in a certain way, we also have our personal policies. However, we have only external policy, and internal policy is self-development (since in the internal direction we can only influence ourselves).
 
 Most people influence the world chaotically, sometimes good, sometimes bad. Often strong political, spiritual and social ideas are broadcast through them, but they don't realize it. And not always these strong ideas have a positive effect on the world and on specific people. The average person does not control and does not care about his external influence, because it seems insignificant to him and is not worth worrying about.
@@ -37,7 +38,7 @@ For example, the ideas of feminism and female parasitism make the life of every 
 
 The consequences of supporting feminism for women are: broken relationships that were once wonderful, unsettled lives; the belief that men are to blame for everything, and consequently women implicitly or explicitly hate and distrust them, which ensures that women will never have happy relationships. Children don't see their fathers, fathers don't see their children and both suffer. Fathers pay insane child support without even getting a report on how the money was spent. That is the absolutely destructive influence of feminist ideas on society, not a single positive point for anyone.
 
-### So our personal foreign policy gives us ###
+### So our personal foreign policy gives us
 
 - Explicitly influence the world, even if just a little bit.
 - Indirectly influence the world by promoting good and true ideas.

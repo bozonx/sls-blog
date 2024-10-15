@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-let-s-talk-about-luck.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/16
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - mind
 ---
+
 How the average person perceives luck:
 
 It is the unexpected and unreasonable occurrence of some event that has a positive effect. If the effect is negative, it is interpreted as bad luck.

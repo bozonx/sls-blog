@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-toxic-sex-appeal.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/78
+commentUrl: https://t.me/ivan_k_freedom/78
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - женщины
 ---
+
 Поговорим о женских, излишне сексапильных повседневных нарядах. Это легинсы, велосипедки, очень короткие юбки, глубокое декольте, топик на голое тело и тд.
 
 ## Есть ли все таки проблема?

@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-fixing-women-s-world.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/56
+commentUrl: https://t.me/ivan_k_freedom/56
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - влияние на мир
 ---
+
 В [прошлой статье](2022-women-s-world-how-women-influence-men) мы рассматривали как женщины на нас влияют и как они формируют общественное мнение, чтобы сделать мир удобным для себя и не удобным для мужчин.
 
 ## Так что же делать?

@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-the-difference-between-men-s-and-women-s-life-priorities.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/49
+commentUrl: https://t.me/ivan_k_freedom/49
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - женщины
 ---
+
 ## Финансы
 
 Мужчина в браке зарабатывает деньги, чтобы содержать себя и семью.

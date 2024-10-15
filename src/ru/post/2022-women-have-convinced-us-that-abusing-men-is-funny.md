@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-women-have-convinced-us-that-abusing-men-is-funny.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/30
+commentUrl: https://t.me/ivan_k_freedom/30
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - навязанные убеждения
 ---
+
 "Когда мы ссоримся с женой, я всегда смотрю на нее сверху вниз! Потому что я главный в доме, а со шкафа это доказывать удобней."
 
 Что мы тут видим? Абьюз, доминирование женщины над мужчиной, токсичное женское поведение, двойные стандарты (абьюз по отношению к мужчине разрешен, по отношению к женщине запрещен). Но это всё выставляется чем-то забавным, хотя конечно ничего забавного в абьюзе нет.

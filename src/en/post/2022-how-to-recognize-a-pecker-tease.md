@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-how-to-recognize-a-pecker-tease--1024x759.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/60
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - women
 ---
+
 Dynamist is a woman who initially on dates sets the goal to use a man with the help of deception in her own selfish interests and she initially did not intend to build a relationship with him or have sex with him. As you understand, for men it will not end well, so you should try to recognize the dinamshchitsy and jump off their manipulations as early as possible. The problem is that dinamshchitsy very well disguised and pretend and recognize them at an early stage is extremely difficult or even impossible, especially for the average man who has not studied deeply "mysterious", in fact self-serving female soul and their manipulations.
 
 A man gains absolutely nothing in this kind of communication, but only loses - loses money, time and gets a blow to self-esteem. And the worst thing is that the dynamist can bring a man into psychological slavery, a state where a man is ready for anything to achieve an illusory goal to achieve her favor. This is an incredibly cruel and destructive manipulation of binding, which is very bad and destructive effect on the psyche of the victim and destroys his life.

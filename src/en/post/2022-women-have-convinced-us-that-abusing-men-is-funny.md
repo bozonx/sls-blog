@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-women-have-convinced-us-that-abusing-men-is-funny.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/30
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - imposed beliefs
 ---
+
 "When we fight with my wife, I always look down on her! Because I'm the boss of the house, and it's easier to prove it from the closet."
 
 What are we looking at here? Abuse, female domination of men, toxic female behavior, double standards (abusing men is allowed, abusing women is forbidden). But it's all made out to be something funny, although of course there's nothing funny about abusive behavior.

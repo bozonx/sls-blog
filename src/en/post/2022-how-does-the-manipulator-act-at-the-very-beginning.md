@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2022-how-does-the-manipulator-act-at-the-very-beginning.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/82
 videoLink: ""
 videoLinkLang: ""
 podcasts: null
@@ -15,6 +15,7 @@ authorId: ivan-k
 tags:
   - manipulations
 ---
+
 The manipulator begins to probe and influence the victim from the very beginning of their acquaintance. The start of manipulation is practically imperceptible to us. It's impossible to definitively say whether it's manipulation or if the person is genuinely friendly and helpful, especially if the person is relatively unknown.
 
 To avoid falling into the manipulator's web, you need to: first, recognize their manipulations, and second, distance yourself from them or completely exclude them from your life. But you need to be careful, otherwise you might accidentally distance a good person if you happen to be mistaken.

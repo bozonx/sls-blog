@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: "/media/2022-do-spiritual-practices-need-to-be-practiced.avif"
 coverDescr: ""
 coverAlt: ""
-commentUrl: https://t.me/slsfreedom/42
+commentUrl: https://t.me/ivan_k_freedom/42
 videoLink: ""
 videoLinkLang: ""
 podcasts: null

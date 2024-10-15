@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2023-how-does-a-person-get-into-the-system.avif
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/ivan_k_freedom/284
 videoLink: https://www.youtube.com/watch?v=49PqzwiNiVU
 videoLinkLang: RU
 podcasts: null
