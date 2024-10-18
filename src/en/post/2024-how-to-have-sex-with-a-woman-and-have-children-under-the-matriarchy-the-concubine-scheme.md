@@ -277,9 +277,9 @@ What should I write in my profile? I recommend that you write down the condition
 
 > I am looking for a woman for a friendly sexual relationship, I will pay $ 100 per month, a bargain is possible. I need to clean the house once a week, cook food, do other household chores and give me a massage a couple of times a week.
 >
-> > We will live with me | You will come to me 2-3 times a week, I will pay for public transport.
-> >
-> > In the future, I would like to have children, then I will increase the payment for child care for 3 years and make a one-time payment of a large amount after you give up your legal rights to the child, but at the same time you will not lose the opportunity to communicate with him and this will not affect our relationship in any way.
+> We will live with me | You will come to me 2-3 times a week, I will pay for public transport.
+>
+> In the future, I would like to have children, then I will increase the payment for child care for 3 years and make a one-time payment of a large amount after you give up your legal rights to the child, but at the same time you will not lose the opportunity to communicate with him and this will not affect our relationship in any way.
 
 You can start from this text, add something, remove something, do not talk about the child if you do not need it, choose one of the options either living together, or she will come to you 2-3 times a week.
 
