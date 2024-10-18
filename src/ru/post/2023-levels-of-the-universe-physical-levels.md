@@ -18,7 +18,7 @@ podcasts:
   yandexmusic: https://music.yandex.ru/album/26679261/track/115828181
 authorId: ivan-k
 tags:
-  - эзотерика
+  - изучаем мир
 ---
 
 Ранее мы окинули взглядом [модель Системы Личной Свободы](2023-introduction-to-the-philosophical-model-of-the-system-of-personal-freedom), а сегодня поговорим об уровнях мироздания по этой модели.

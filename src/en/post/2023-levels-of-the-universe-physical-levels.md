@@ -13,7 +13,7 @@ videoLinkLang: RU
 podcasts: null
 authorId: ivan-k
 tags:
-  - esotericism
+  - exploring the world
 ---
 
 # Levels of the Universe
