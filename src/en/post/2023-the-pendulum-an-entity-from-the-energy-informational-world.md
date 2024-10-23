@@ -15,7 +15,6 @@ authorId: ivan-k
 tags:
   - esotericism
 ---
-Here's the translation of the text from Russian to English, preserving the Markdown formatting:
 
 I borrowed the term "pendulum" from the esoteric teaching "Reality Transurfing"; in other teachings, it is called [egregore](https://en.wikipedia.org/wiki/Egregore). From the perspective of social group psychology, this phenomenon can also be explained, although it seems that something is missing, some connecting link or glue that binds everything together. This is exactly what I want to find by combining psychology with esotericism.
 

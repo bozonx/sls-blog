@@ -15,7 +15,6 @@ authorId: ivan-k
 tags:
   - esotericism
 ---
-Here's the translation of the text from Russian to English, maintaining the Markdown formatting:
 
 Earlier, we began to consider the philosophical model of the Personal Freedom System, in which we became acquainted with [the levels of the universe and examined the physical world](2023-levels-of-the-universe-physical-levels).
 

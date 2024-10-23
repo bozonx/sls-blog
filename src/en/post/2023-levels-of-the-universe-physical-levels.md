@@ -16,8 +16,6 @@ tags:
   - exploring the world
 ---
 
-# Levels of the Universe
-
 Earlier, we took a glance at [the model of the Personal Freedom System](2023-introduction-to-the-philosophical-model-of-the-system-of-personal-freedom), and today we'll talk about the levels of the universe according to this model.
 
 ## Levels of the Universe
