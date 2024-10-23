@@ -13,9 +13,8 @@ videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
 tags:
-  - mind
+  - world impact
 ---
-
 Just as states have their internal and external policies to influence the situation inside and outside the country in a certain way, we also have our personal policies. However, we have only external policy, and internal policy is self-development (since in the internal direction we can only influence ourselves).
 
 Most people influence the world chaotically, sometimes good, sometimes bad. Often strong political, spiritual and social ideas are broadcast through them, but they don't realize it. And not always these strong ideas have a positive effect on the world and on specific people. The average person does not control and does not care about his external influence, because it seems insignificant to him and is not worth worrying about.
