@@ -13,7 +13,7 @@ videoLinkLang: RU
 podcasts: null
 authorId: ivan-k
 tags:
-  - system
+  - philosophy
 ---
 >  Disclaimer right away: the Personal Freedom System is neither a spiritual nor an esoteric teaching and does not promote any spiritual or esoteric teachings. I state this upfront because today we will take the first step towards personal freedom, and for this, we will have to touch upon a part of the universe that is currently not proven by science, but information about it exists in esoteric teachings, particularly about the energy-information field, knowledge of which we need to build a philosophical model.
 
