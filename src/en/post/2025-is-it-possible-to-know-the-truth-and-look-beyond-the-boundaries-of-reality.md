@@ -7,12 +7,13 @@ descrAsPreview: true
 cover: /media/2025-is-it-possible-to-know-the-truth-and-look-beyond-the-boundaries-of-reality.avif
 coverDescr: ''
 coverAlt: ''
-commentUrl: ''
+commentUrl: https://t.me/ivan_k_freedom/378
 videoLink: https://youtu.be/865V1kLi4Jg
 videoLinkLang: RU
 podcasts: null
 authorId: ivan-k
-tags: []
+tags:
+  - philosophy
 ---
 ## Why is it Necessary to Understand the Boundaries of Cognition?
 
@@ -52,7 +53,7 @@ In the subjective world, it's even more complicated; there, even simply knowing 
 
 The main problem is that in the subjective world, there is no single source of truth, which in the objective world is nature itself, which judges experimental results, deciding what is true and what is not. Therefore, there is no single true concept describing the subjective world. This is an important thought - there is no source of truth, so there is no single true concept in the subjective world.
 
-The second problem is that we are limited in the tools for knowing truth. Mainly these are logic (deductive method, logical conclusions from general to specific) and subjective experience available to **all** (induction, empirical method - logical conclusions based on observations and experience from which a general picture is built, that is, from specific to general).
+The second problem is that we are limited in the tools for knowing truth. Mainly these are logic (deductive method, logical conclusions from general to specific) and subjective experience available to **all** _(induction, empirical method - logical conclusions based on observations and experience from which a general picture is built, that is, from specific to general)_.
 
 These are wonderful tools, but they have serious problems. Even such a marvelous tool as logic can lead us astray because, relying solely on pure logic, one can create a logical system that describes anything, even something that doesn't exist. A bright example is flat-earthers - their logical system leads to the conclusion that the earth is flat. And this is despite more than 2,300 years since Aristotle provided proof that the earth is round.
 
