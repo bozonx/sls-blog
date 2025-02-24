@@ -2,19 +2,20 @@
 title: My story of fighting against the war with Ukraine and escaping from repression
 date: 2025-02-24T12:00-03:00
 description: 3 years of war, 3 years of Vladimir Putin destroying Russians and Ukrainians, 3 years of Putin replacing the flower of the Russian people with uneducated but loyal migrants, 3 years of Putin squandering people's resources to solve short-term problems to stay on the throne, 3 years of darkness, cruelty, madness and hopelessness. 3 years... Few people thought that this war would last so long. When I left Russia, I was well aware that the outcome of the war, like any other confrontation, is never known in advance, as well as how long the war will last, but even realizing this, I still could not imagine that the war would last so long.
-previewText: ''
+previewText: ""
 descrAsPreview: true
-cover: ../../post/2025-my-story-of-fighting-against-the-war-with-ukraine-and-escaping-from-repression.jpg
-coverDescr: ''
-coverAlt: ''
-commentUrl: ''
-videoLink: ''
-videoLinkLang: ''
+cover: /media/2025-my-story-of-fighting-against-the-war-with-ukraine-and-escaping-from-repression.jpg
+coverDescr: ""
+coverAlt: ""
+commentUrl: ""
+videoLink: ""
+videoLinkLang: ""
 podcasts: null
 authorId: ivan-k
 tags:
   - politics
 ---
+
 In Russia, I was involved in social and political activities, and was an activist in Alexei Navalny's movement in Vladivostok. I attended rallies, supported various actions from the FBK _(Anti-Corruption Foundation)_, posted leaflets, and moreover, I was a leader who gathered a group of activists with whom we independently conducted actions that we ourselves invented _(by the way, our group was eventually disbanded not by FSB agents, but by feminists because they wanted to impose feminism under the guise of liberalism, but that's not what I'm talking about now)_.
 
 ## We were constantly being watched
@@ -65,7 +66,7 @@ Greetings to everyone I met then in Turkey and especially to my new friends!
 
 I also want to express immense gratitude to my Russian friends _(sending greetings to my friend from Moscow with whom we became even closer communicating remotely than when we lived in Vladivostok and became like-minded on many issues, although our political views differ)_. Not a single friend turned away from me, which I cannot say about my relatives.
 
-Almost all my relatives, who quite recently said that we should meet more often and communicate more, with whom we lived our whole lives, betrayed me. Some called me a traitor, some said that my mother gave birth to me in vain because I'm against Putin, and one even stole my cryptocurrency mining equipment because I don't support the destruction of Russians and Ukrainians, I dare to say something against Putin, and in general, since I won't return to Russia, my equipment can be stolen and nothing will happen to him for it. Other relatives simply demonstratively stopped communicating with me, left the chat and broke ties with me. They all accepted fascism _(Russian fascism is called [Rashism](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B8%D0%B7%D0%BC), stemming from the ideas of [Ivan Ilyin](https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%2C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87), V. Putin's favorite philosopher)_, worship Putin and crave the blood of Russians and Ukrainians.
+Almost all my relatives, who quite recently said that we should meet more often and communicate more, with whom we lived our whole lives, betrayed me. Some called me a traitor, some said that my mother gave birth to me in vain because I'm against Putin, and one even stole my cryptocurrency mining equipment because I don't support the destruction of Russians and Ukrainians, I dare to say something against Putin, and in general, since I won't return to Russia, my equipment can be stolen and nothing will happen to him for it. Other relatives simply demonstratively stopped communicating with me, left the chat and broke ties with me. They all accepted fascism _(Russian fascism is called [Rashism](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B8%D0%B7%D0%BC), stemming from the ideas of [Ivan Ilyin](https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%2C_%D0%98%D0%B2%D0%B0%D0%BD*%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87), V. Putin's favorite philosopher)*, worship Putin and crave the blood of Russians and Ukrainians.
 
 I still can't fully believe and realize the betrayal of relatives! I fought not in words, but in deeds for the freedom of the peoples of Russia and my relatives as well, I admired Russian culture not in words, but attended concerts and theatrical productions, I was a patriot of my homeland.
 
