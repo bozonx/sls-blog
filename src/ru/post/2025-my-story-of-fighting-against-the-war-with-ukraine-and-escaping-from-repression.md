@@ -5,7 +5,7 @@ description: 3 года войны, 3 года Владимир Путин ун�
 previewText: ""
 descrAsPreview: true
 cover: /media/2025-my-story-of-fighting-against-the-war-with-ukraine-and-escaping-from-repression.jpg
-coverDescr: ""
+coverDescr: "Айван Кей"
 coverAlt: ""
 commentUrl: ""
 videoLink: ""

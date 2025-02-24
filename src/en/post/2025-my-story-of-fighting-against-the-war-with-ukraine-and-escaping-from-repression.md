@@ -6,7 +6,7 @@ previewText: ""
 descrAsPreview: true
 cover: /media/2025-my-story-of-fighting-against-the-war-with-ukraine-and-escaping-from-repression.jpg
 coverDescr: ""
-coverAlt: ""
+coverAlt: "Ivan K"
 commentUrl: ""
 videoLink: ""
 videoLinkLang: ""
