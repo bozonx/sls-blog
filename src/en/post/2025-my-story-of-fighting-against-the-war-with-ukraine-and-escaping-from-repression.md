@@ -5,8 +5,8 @@ description: 3 years of war, 3 years of Vladimir Putin destroying Russians and U
 previewText: ""
 descrAsPreview: true
 cover: /media/2025-my-story-of-fighting-against-the-war-with-ukraine-and-escaping-from-repression.jpg
-coverDescr: ""
-coverAlt: "Ivan K"
+coverDescr: "Ivan K"
+coverAlt: ""
 commentUrl: ""
 videoLink: ""
 videoLinkLang: ""
