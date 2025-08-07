@@ -1,0 +1,11 @@
+name = 'p-libereco-blog'
+main = "worker.js"
+compatibility_date = "2025-08-07"
+
+routes = [
+  { pattern = "blog.p-libereco", custom_domain = true }
+]
+
+[assets]
+directory = "docs"
+binding = "ASSETS"

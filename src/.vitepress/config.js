@@ -1,3 +1,4 @@
+import { defineConfig } from "vitepress";
 import blogConfigBase from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
 import { PROPS } from "./props.js";
@@ -6,7 +7,7 @@ const ru = loadBlogLocale("ru", __filename, PROPS);
 const en = loadBlogLocale("en", __filename, PROPS);
 const configBase = blogConfigBase(PROPS, en);
 
-export default {
+export default defineConfig({
   ...configBase,
   locales: {
     ...configBase.locales,
@@ -38,4 +39,4 @@ export default {
        gtag('config', 'G-B9R514ZW75');`,
     ],
   ],
-};
+});

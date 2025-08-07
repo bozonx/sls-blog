@@ -8,10 +8,16 @@
   "scripts": {
     "dev": "vitepress dev src",
     "build": "vitepress build src",
-    "preview": "vitepress preview src"
+    "preview": "vitepress preview src",
+    "cf:dev": "pnpm build && wrangler dev",
+    "cf:deploy": "pnpm build && wrangler deploy",
+    "cf:login": "wrangler login"
   },
   "dependencies": {
-    "vitepress": "^1.4.0",
+    "vitepress": "2.0.0-alpha.9",
     "vitepress-sls-blog-tmpl": "^0.15.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.72.0"
   }
 }
