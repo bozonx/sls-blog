@@ -1,9 +1,9 @@
 User-agent: *
 Disallow: /admin
+Disallow: /0
 
 Disallow: /*utm_
 Disallow: /*?m=1
 Allow: /
 
 Sitemap: https://blog.p-libereco.org/sitemap.xml
-

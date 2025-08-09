@@ -1,5 +1,7 @@
 # Blog of The system of personal freedom
 
+Short url to the recent page is `/0?ru`.
+
 ## Run
 
 Use node version: 18 or greater
