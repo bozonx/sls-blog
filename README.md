@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18fe20b9-c449-4119-af07-6b3826eeacfd/deploy-status)](https://app.netlify.com/sites/sls-blog/deploys)
-
 # Blog of The system of personal freedom
 
 ## Run
@@ -9,13 +7,14 @@ Use node version: 18 or greater
 - Install dependencies:
 
   ```bash
-  yarn
+  pnpm i
+  pnpm link vitepress-sls-blog-tmpl
   ```
 
 - Run locally:
 
   ```bash
-  yarn dev
+  pnpm dev
   ```
 
   Go to `http://localhost:5173/`
@@ -23,7 +22,7 @@ Use node version: 18 or greater
 - Build and Preview
 
   ```bash
-  yarn build && yarn preview
+  pnpm build && pnpm preview
   ```
 
   Go to `http://localhost:4173/`
@@ -31,6 +30,14 @@ Use node version: 18 or greater
   Local admin panel is on `http://localhost:4173/admin/`
 
 ## Cloudflare
+
+Preview before upload:
+
+```
+pnpm cf:dev
+```
+
+To upload to worker run:
 
 ```
 pnpm cf:deploy

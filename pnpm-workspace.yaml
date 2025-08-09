@@ -4,3 +4,6 @@ ignoredBuiltDependencies:
   - vitepress-sls-blog-tmpl
   - vue-demi
   - workerd
+
+overrides:
+  vitepress-sls-blog-tmpl: link:../../../../home/ivan/.local/share/pnpm/global/5/node_modules/vitepress-sls-blog-tmpl

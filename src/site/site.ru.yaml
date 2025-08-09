@@ -7,6 +7,7 @@ body: |-
   authors:
     - id: "ivan-k"
       name: "Айван Кей"
+      descr: "Мыслитель и практик в области философии свободы, идеолог антифеминизма"
       link: "${PROPS.siteUrl}/${PROPS.lang}/doc/ivan-k"
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
