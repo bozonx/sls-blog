@@ -4,5 +4,4 @@ export const PROPS = {
   siteUrl: "https://p-libereco.org",
   footerCopyright: "Copyright © 2022-present The system of personal freedom.",
   perPage: 20,
-  paginationMaxItems: 7,
 };
