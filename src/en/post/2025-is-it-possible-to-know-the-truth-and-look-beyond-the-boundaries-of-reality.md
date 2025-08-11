@@ -15,6 +15,9 @@ authorId: ivan-k
 tags:
   - philosophy
 ---
+
+[[toc]]
+
 ## Why is it Necessary to Understand the Boundaries of Cognition?
 
 The point is that before answering questions like "Are we in a simulation?", "Is there life after death?" and similar ones, we first need to understand whether we can reach the boundaries of cognition, and if we can, whether it's fundamentally possible to cross this boundary and know what lies beyond our reality - the other side of the simulation, god, superintelligence, creator, or the architect of the universe. And this, by the way, is the truth in itself, the answers to these questions are absolute truth. And it is very closely related to understanding the boundaries of cognition, which is why I combined these topics into one.

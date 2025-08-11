@@ -20,6 +20,8 @@ tags:
 >
 > Disclaimer: so that I'm not accused of discrediting family values or something similar, I declare that the method I propose is oriented only towards free men and all information is oriented towards them, not everyone. I do not call for the rejection of traditional values by large masses of people, but for those who can think and notice that something is wrong here, I show that there is another choice, while not calling for anything. Also, there is no hatred towards women in this issue, and I certainly don't call for that. If something seemed that way to you, it means that you misunderstood me.
 
+[[toc]]
+
 ## Current Situation with Men's Rights
 
 I'll start by describing the current situation to make it clear why I'm proposing this particular solution that we'll talk about today.
