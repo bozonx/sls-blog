@@ -20,6 +20,7 @@ body: |-
       - text: "${PROPS.t.links.donate}"
         href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
         icon: "${PROPS.theme.donateIcon}"
+        iconClass: donate-icon
         mobileToo: true
       # - text: "${PROPS.t.links.wiki}"
       #   href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
