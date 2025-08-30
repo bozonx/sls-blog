@@ -62,3 +62,6 @@ body: |-
       - text: "RSS лента"
         href: "${PROPS.hostname}/feed-${PROPS.lang}.rss"
         icon: "${PROPS.theme.rssIcon}"
+      - text: "Atom лента"
+        href: "${PROPS.hostname}/feed-${PROPS.lang}.atom"
+        icon: "${PROPS.theme.atomIcon}"
