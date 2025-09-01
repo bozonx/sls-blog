@@ -78,6 +78,13 @@ collections:
         required: false
         preview: false
         i18n: duplicate
+      - label: "Canonical URL ('self' means self-canonical)"
+        name: "canonical"
+        widget: "string"
+        default: "self"
+        required: false
+        preview: false
+        i18n: true
       - label: "Cover"
         name: "cover"
         widget: "image"
