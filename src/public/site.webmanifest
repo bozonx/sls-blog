@@ -1,6 +1,7 @@
 {
   "name": "Blog of S.P.F",
   "short_name": "S.P.F blog",
+  "description": "Personal blog about philosophy, psychology, and life insights",
   "icons": [
     {
       "src": "/img/android-chrome-192x192.png",
@@ -16,5 +17,7 @@
   "theme_color": "#000000",
   "background_color": "#000000",
   "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
   "display": "standalone"
 }
