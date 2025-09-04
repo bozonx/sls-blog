@@ -42,7 +42,7 @@ const hero = {
 </script>
 
 <HomeHero v-bind="hero" />
-<HomePageTags :header="theme.t.tags" :allData="data.posts" />
+<HomePageTags :header="theme.t.tags" :allPosts="data.posts" />
 
 <!-- <UtilPageContent> -->
 <!---->
