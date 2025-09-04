@@ -7,8 +7,12 @@ body: |-
   authors:
     - id: "ivan-k"
       name: "Айван Кей"
-      descr: "Мыслитель и практик в области философии свободы, идеолог антифеминизма"
+      descr: "Мыслитель и практик в области философии свободы"
       link: "${PROPS.siteUrl}/${PROPS.lang}/doc/ivan-k"
+  publisher:
+    name: "Блог Системы Личной Свободы"
+    url: "${PROPS.siteUrl}/${PROPS.lang}"
+    logo: "${PROPS.siteUrl}/img/home-logo.webp"
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
