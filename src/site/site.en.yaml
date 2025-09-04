@@ -4,10 +4,6 @@ body: |-
   description: "Articles and podcast texts. Topics: philosophy, psychology, self-development, politics, society, masculism and esotericism"
   siteTitle: "Blog of The system of personal freedom"
 
-  authors:
-    - id: "ivan-k"
-      name: "Ivan K"
-      link: "${PROPS.siteUrl}/${PROPS.lang}/doc/ivan-k"
   publisher:
     name: "System of personal freedom"
     url: "${PROPS.siteUrl}/${PROPS.lang}"

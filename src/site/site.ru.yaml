@@ -4,11 +4,6 @@ body: |-
   description: "Статьи и тексты подкастов. Темы: философия, психология, саморазвитие, политика, социум, маскулизм и эзотерика"
   siteTitle: "Блог Системы Личной Свободы"
 
-  authors:
-    - id: "ivan-k"
-      name: "Айван Кей"
-      descr: "Мыслитель и практик в области философии свободы"
-      link: "${PROPS.siteUrl}/${PROPS.lang}/doc/ivan-k"
   publisher:
     name: "Система Личной Свободы"
     url: "${PROPS.siteUrl}/${PROPS.lang}"
