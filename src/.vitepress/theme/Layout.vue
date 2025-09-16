@@ -1,8 +1,9 @@
 <script setup>
   import Theme from "vitepress-sls-blog-tmpl";
+  import { provide } from "vue";
   import { data as ruData } from "../../ru/loadPosts.data.js";
   import { data as enData } from "../../en/loadPosts.data.js";
-  import { provide } from "vue";
+  import { PROPS } from "../props.js";
 
   const posts = {
     ru: ruData.posts,
@@ -10,6 +11,7 @@
   };
 
   provide("posts", posts);
+  provide("hostname", PROPS.hostname);
 
   const { Layout } = Theme;
 </script>
