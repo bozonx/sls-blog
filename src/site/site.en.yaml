@@ -8,56 +8,33 @@ body: |-
     name: "System of personal freedom"
     url: "${PROPS.siteUrl}/${PROPS.lang}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
-  postDonateCall: "If you like this project, please support it financially. [Donate](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Copying allowed only with a link to the source."
-    copyright: "${PROPS.footerCopyright}"
+    copyright: "Copyright © 2022-present The system of personal freedom."
     links:
      - text: "${PROPS.t.links.aboutBlog}"
        href: "page/about-blog"
   topBar:
+    donate: true
     links:
-      - text: "${PROPS.t.links.donate}"
-        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
-        icon: "${PROPS.theme.donateIcon}"
-        iconClass: donate-icon
-        mobileToo: true
-      # - text: "${PROPS.t.links.wiki}"
+      # - text: "${PROPS.t.links.guide}"
       #   href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
       #   icon: "${PROPS.theme.docIcon}"
   sideBar:
-    links:
-      - text: "${PROPS.t.links.recent}"
-        href: "${PROPS.theme.recentBaseUrl}/1"
-        icon: "${PROPS.theme.recentIcon}"
-      - text: "${PROPS.t.links.byDate}"
-        href: "${PROPS.theme.archiveBaseUrl}"
-        icon: "${PROPS.theme.byDateIcon}"
+    recent: true
+    archive: true
+    donate: true
+    guide: false
+    rssFeed: true
+    atomFeed: true
     bottomLinks:
-      - text: "${PROPS.t.links.donate}"
-        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
-        icon: "${PROPS.theme.donateIcon}"
-        mobile: true
-      # - text: "${PROPS.t.links.wiki}"
-      #   href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
-      #   icon: "${PROPS.theme.docIcon}"
-      #   mobile: true
       - { header: "${PROPS.t.links.links}" }
       - text: "Youtube channel (RU)"
         href: "https://www.youtube.com/@slsfreedom"
         icon: "${PROPS.theme.youtubeIcon}"
-      # - text: "Telegram channel (RU)"
-      #   href: "https://t.me/slsfreedom"
-      #   icon: "${PROPS.theme.telegramIcon}"
       - text: "Telegram chat (RU)"
         href: "https://t.me/slsfreedom_chat"
         icon: "${PROPS.theme.chatIcon}"
       - text: "All social media"
         href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.linksUrl}"
         icon: "${PROPS.theme.socialLinksIcon}"
-      - text: "RSS feed"
-        href: "${PROPS.hostname}/feed-${PROPS.lang}.rss"
-        icon: "${PROPS.theme.rssIcon}"
-      - text: "Atom feed"
-        href: "${PROPS.hostname}/feed-${PROPS.lang}.atom"
-        icon: "${PROPS.theme.atomIcon}"
