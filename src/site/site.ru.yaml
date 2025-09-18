@@ -23,6 +23,7 @@ body: |-
       - icon: 'fa6-brands:github-alt'
         href: "${PROPS.repo}"
         title: 'Этот блог на Github'
+        desktopOnly: true
   sideBar:
     recent: true
     archive: true
