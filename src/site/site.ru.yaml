@@ -16,10 +16,7 @@ body: |-
        href: "page/about-blog"
   topBar:
     donate: true
-    links:
-      # - text: "${PROPS.t.links.guide}"
-      #   href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
-      #   icon: "${PROPS.theme.docIcon}"
+    guide: false
   sideBar:
     recent: true
     archive: true
