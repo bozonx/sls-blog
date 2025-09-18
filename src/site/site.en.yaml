@@ -19,14 +19,20 @@ body: |-
        href: "page/about-blog"
   topBar:
     donate: true
-    guide: false
+    socialLinks:
+      - icon: 'fa6-brands:github-alt'
+        href: "${PROPS.repo}"
+        title: 'This blog on Github'
   sideBar:
     recent: true
     archive: true
     donate: true
-    guide: false
     rssFeed: true
     atomFeed: true
+    socialLinks:
+      - icon: 'fa6-brands:github-alt'
+        href: "${PROPS.repo}"
+        title: 'This blog on Github'
     bottomLinks:
       - { header: "${t.links.links}" }
       - text: "Youtube channel (RU)"
