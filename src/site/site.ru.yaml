@@ -4,15 +4,18 @@ body: |-
   description: "Статьи и тексты подкастов. Темы: философия, психология, саморазвитие, политика, социум, маскулизм и эзотерика"
   siteTitle: "Блог Системы Личной Свободы"
 
+  donate:
+    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Система Личной Свободы"
-    url: "${PROPS.siteUrl}/${PROPS.lang}"
+    url: "${PROPS.siteUrl}/${lang}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
     copyright: "Copyright © 2022-present The system of personal freedom."
     links:
-     - text: "${PROPS.t.links.aboutBlog}"
+     - text: "${t.links.aboutBlog}"
        href: "page/about-blog"
   topBar:
     donate: true
@@ -25,13 +28,13 @@ body: |-
     rssFeed: true
     atomFeed: true
     bottomLinks:
-      - { header: "${PROPS.t.links.links}" }
+      - { header: "${t.links.links}" }
       - text: "Youtube канал"
         href: "https://www.youtube.com/@slsfreedom"
-        icon: "${PROPS.theme.youtubeIcon}"
+        icon: "${theme.youtubeIcon}"
       - text: "Чат в Telegram"
         href: "https://t.me/slsfreedom_chat"
-        icon: "${PROPS.theme.chatIcon}"
+        icon: "${theme.chatIcon}"
       - text: "Все соц сети"
-        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.linksUrl}"
-        icon: "${PROPS.theme.socialLinksIcon}"
+        href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+        icon: "${theme.socialLinksIcon}"
