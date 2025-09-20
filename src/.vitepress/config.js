@@ -11,9 +11,9 @@ export default async () => {
       repo: "https://github.com/bozonx/sls-blog",
       siteUrl: "https://p-libereco.org",
       perPage: PER_PAGE,
+      sidebarLogoSrc: "/img/sidebar-logo.webp",
       showAuthorInPostList: false,
       homeBgParalaxOffset: 150,
-      sidebarLogoSrc: "/img/sidebar-logo.webp",
     },
     head: [
       // do not recognize telephone numbers on the page
