@@ -5,11 +5,11 @@ body: |-
   siteTitle: "Blog of The system of personal freedom"
 
   donate:
-    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "System of personal freedom"
-    url: "${PROPS.siteUrl}/${lang}"
+    url: "${PROPS.siteUrl}/${localeIndex}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   footer:
     message: "Copying allowed only with a link to the source."
@@ -43,5 +43,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "All social media"
-        href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+        href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
         icon: "${theme.socialLinksIcon}"

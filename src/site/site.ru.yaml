@@ -5,11 +5,11 @@ body: |-
   siteTitle: "Блог Системы Личной Свободы"
 
   donate:
-    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Система Личной Свободы"
-    url: "${PROPS.siteUrl}/${lang}"
+    url: "${PROPS.siteUrl}/${localeIndex}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
@@ -43,5 +43,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "Все соц сети"
-        href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+        href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
         icon: "${theme.socialLinksIcon}"
