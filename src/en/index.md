@@ -33,7 +33,7 @@ const hero = {
     },
     {
       text: theme.value.t.links.donate,
-      href: `${theme.value.siteUrl}/${localeIndex.value}/${theme.value.donateUrl}`,
+      href: `${theme.value.donate.url}`,
       icon: theme.value.donateIcon,
     },
   ],
