@@ -1,16 +1,17 @@
 title: site
 body: |-
+  lang: "en-US"
   title: "Blog of The system of personal freedom"
   description: "Articles and podcast texts. Topics: philosophy, psychology, self-development, politics, society, masculism and esotericism"
   siteTitle: "Blog of The system of personal freedom"
 
   donate:
-    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "System of personal freedom"
-    url: "${PROPS.siteUrl}/${localeIndex}"
-    logo: "${PROPS.siteUrl}/img/home-logo.webp"
+    url: "${theme.siteUrl}/${localeIndex}"
+    logo: "${theme.siteUrl}/img/home-logo.webp"
   footer:
     message: "Copying allowed only with a link to the source."
     copyright: "Copyright © 2022-present The system of personal freedom."
@@ -21,7 +22,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'This blog on Github'
         desktopOnly: true
   sideBar:
@@ -32,7 +33,7 @@ body: |-
     atomFeed: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'This blog on Github'
     bottomLinks:
       - { header: "${t.links.links}" }
@@ -43,5 +44,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "All social media"
-        href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
+        href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
         icon: "${theme.socialLinksIcon}"

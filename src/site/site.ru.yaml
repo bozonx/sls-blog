@@ -1,16 +1,17 @@
 title: site
 body: |-
+  lang: "ru-RU"
   title: "Блог Системы Личной Свободы"
   description: "Статьи и тексты подкастов. Темы: философия, психология, саморазвитие, политика, социум, маскулизм и эзотерика"
   siteTitle: "Блог Системы Личной Свободы"
 
   donate:
-    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Система Личной Свободы"
-    url: "${PROPS.siteUrl}/${localeIndex}"
-    logo: "${PROPS.siteUrl}/img/home-logo.webp"
+    url: "${theme.siteUrl}/${localeIndex}"
+    logo: "${theme.siteUrl}/img/home-logo.webp"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
     copyright: "Copyright © 2022-present The system of personal freedom."
@@ -21,7 +22,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'Этот блог на Github'
         desktopOnly: true
   sideBar:
@@ -32,7 +33,7 @@ body: |-
     atomFeed: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'Этот блог на Github'
     bottomLinks:
       - { header: "${t.links.links}" }
@@ -43,5 +44,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "Все соц сети"
-        href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
+        href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
         icon: "${theme.socialLinksIcon}"

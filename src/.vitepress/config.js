@@ -1,29 +1,21 @@
 import { defineConfig } from "vitepress";
-import blogConfigBase from "vitepress-sls-blog-tmpl/blogConfigBase.js";
+import { mergeBlogConfig } from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
-import { PROPS } from "./props.js";
+
+export const PER_PAGE = 20;
 
 export default async () => {
-  const ru = await loadBlogLocale("ru", __filename, PROPS);
-  const en = await loadBlogLocale("en", __filename, PROPS);
-  const configBase = blogConfigBase(PROPS, en);
-
-  return defineConfig({
-    ...configBase,
-
-    locales: {
-      ...configBase.locales,
-      en: { lang: "en-US", ...en },
-      ru: { lang: "ru-RU", ...ru },
-    },
+  const config = defineConfig({
+    hostname: "https://blog.p-libereco.org",
     themeConfig: {
-      ...configBase.themeConfig,
+      repo: "https://github.com/bozonx/sls-blog",
+      siteUrl: "https://p-libereco.org",
+      perPage: PER_PAGE,
       showAuthorInPostList: false,
       homeBgParalaxOffset: 150,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
     },
     head: [
-      ...configBase.head,
       // do not recognize telephone numbers on the page
       ["meta", { name: "format-detection", content: "telephone=no" }],
 
@@ -41,5 +33,13 @@ export default async () => {
        gtag('config', 'G-B9R514ZW75');`,
       ],
     ],
+  });
+
+  const ru = await loadBlogLocale("ru", __filename, config);
+  const en = await loadBlogLocale("en", __filename, config);
+
+  return mergeBlogConfig({
+    ...config,
+    locales: { en, ru },
   });
 };
