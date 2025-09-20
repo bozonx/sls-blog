@@ -12,7 +12,6 @@ export default async () => {
       siteUrl: "https://p-libereco.org",
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
-      showAuthorInPostList: false,
       homeBgParalaxOffset: 150,
     },
     head: [
