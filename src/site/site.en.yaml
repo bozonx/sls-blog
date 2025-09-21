@@ -6,7 +6,7 @@ body: |-
   siteTitle: "Blog of The system of personal freedom"
 
   donate:
-    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/page/donate"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "System of personal freedom"
@@ -44,5 +44,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "All social media"
-        href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
+        href: "${theme.siteUrl}/${localeIndex}/page/links"
         icon: "${theme.socialLinksIcon}"

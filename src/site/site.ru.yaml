@@ -6,7 +6,7 @@ body: |-
   siteTitle: "Блог Системы Личной Свободы"
 
   donate:
-    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/page/donate"
     postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Система Личной Свободы"
@@ -44,5 +44,5 @@ body: |-
         href: "https://t.me/slsfreedom_chat"
         icon: "${theme.chatIcon}"
       - text: "Все соц сети"
-        href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
+        href: "${theme.siteUrl}/${localeIndex}/page/links"
         icon: "${theme.socialLinksIcon}"
