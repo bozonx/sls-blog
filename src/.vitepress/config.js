@@ -13,7 +13,6 @@ export default async () => {
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
       homeBgParalaxOffset: 150,
-      F,
     },
     head: [
       // do not recognize telephone numbers on the page
