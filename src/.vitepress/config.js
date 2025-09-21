@@ -34,11 +34,11 @@ export default async () => {
     ],
   });
 
-  const ru = await loadBlogLocale("ru", __filename, config);
-  const en = await loadBlogLocale("en", __filename, config);
-
   return mergeBlogConfig({
     ...config,
-    locales: { en, ru },
+    locales: {
+      en: await loadBlogLocale("en", __filename, config),
+      ru: await loadBlogLocale("ru", __filename, config),
+    },
   });
 };
