@@ -1,3 +1,4 @@
+import path from "node:path";
 import { defineConfig } from "vitepress";
 import { mergeBlogConfig } from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
@@ -6,6 +7,7 @@ export const PER_PAGE = 20;
 
 export default async () => {
   const config = defineConfig({
+    srcDir: path.resolve(__dirname, "../"),
     hostname: "https://blog.p-libereco.org",
     themeConfig: {
       repo: "https://github.com/bozonx/sls-blog",
@@ -37,8 +39,8 @@ export default async () => {
   return mergeBlogConfig({
     ...config,
     locales: {
-      en: await loadBlogLocale("en", __filename, config),
-      ru: await loadBlogLocale("ru", __filename, config),
+      en: await loadBlogLocale("en", config),
+      ru: await loadBlogLocale("ru", config),
     },
   });
 };
