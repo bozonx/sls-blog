@@ -1,11 +1,11 @@
 import { POSTS_DIR } from "vitepress-sls-blog-tmpl/constants.js";
-import getCachedPosts from "./cachedPosts.js";
+import getAllPosts from "./getAllPosts.js";
 
 export default {
   watch: [`./${POSTS_DIR}/*.md`],
   async load(watchedFiles) {
     return {
-      posts: await getCachedPosts(
+      posts: await getAllPosts(
         watchedFiles,
         process.env.NODE_ENV !== "production"
       ),
