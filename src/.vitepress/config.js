@@ -16,16 +16,16 @@ export default async () => {
       homeBgParalaxOffset: 150,
       showAuthorInPostList: false,
 
-      // googleAnalytics: {
-      //   propertyId: "500486823",
-      //   credentialsPath:
-      //     "/home/ivan/disk2/workspace/antifem-blog/ga-credentials.json",
-      // },
+      googleAnalytics: {
+        propertyId: "451534387",
+        credentialsPath:
+          "/home/ivan/disk2/workspace/sls-blog/ga-credentials.json",
+      },
 
-      // popularPosts: {
-      //   enabled: true,
-      //   sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
-      // },
+      popularPosts: {
+        enabled: true,
+        sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
+      },
 
       ////// specific to this blog
       // ruTgChannel: "https://t.me/antifem_battle",
