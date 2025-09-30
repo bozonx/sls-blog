@@ -26,8 +26,10 @@ body: |-
         title: 'Этот блог на Github'
         desktopOnly: true
   sideBar:
+    popular: true
     recent: true
     archive: true
+    # authors: true
     donate: true
     rssFeed: true
     atomFeed: true
@@ -38,10 +40,10 @@ body: |-
     bottomLinks:
       - { header: "${t.links.links}" }
       - text: "Youtube канал"
-        href: "https://www.youtube.com/@slsfreedom"
+        href: "${theme.ruYoutubeChannel}"
         icon: "${theme.youtubeIcon}"
       - text: "Чат в Telegram"
-        href: "https://t.me/slsfreedom_chat"
+        href: "${theme.rTgChat}"
         icon: "${theme.chatIcon}"
       - text: "Все соц сети"
         href: "${theme.mainSiteUrl}/${localeIndex}/page/links"

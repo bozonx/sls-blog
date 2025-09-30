@@ -29,8 +29,8 @@ export default async () => {
       ////// specific to this blog
       // ruTgChannel: "https://t.me/antifem_battle",
       // ruIvanKYoutubeChannel: "https://www.youtube.com/@ivan-k-freedom",
-      // ruYoutubeChannel: "https://www.youtube.com/@antifem-move",
-      // rTgChat: "https://t.me/antifem_battle_chat",
+      ruYoutubeChannel: "https://www.youtube.com/@slsfreedom",
+      rTgChat: "https://t.me/slsfreedom_chat",
       mainSiteUrl: "https://p-libereco.org",
     },
     head: [
