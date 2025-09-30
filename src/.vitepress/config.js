@@ -9,11 +9,12 @@ export default async () => {
   const config = defineConfig({
     srcDir: path.resolve(__dirname, "../"),
     siteUrl: "https://blog.p-libereco.org",
+    repo: "https://github.com/bozonx/sls-blog",
     themeConfig: {
-      repo: "https://github.com/bozonx/sls-blog",
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
       homeBgParalaxOffset: 150,
+      showAuthorInPostList: false,
 
       // googleAnalytics: {
       //   propertyId: "500486823",
