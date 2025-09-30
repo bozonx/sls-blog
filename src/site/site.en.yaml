@@ -12,6 +12,10 @@ body: |-
     name: "System of personal freedom"
     url: "${theme.mainSiteUrl}/${localeIndex}"
     logo: "${theme.mainSiteUrl}/img/home-logo.webp"
+  authors:
+    - id: "ivan-k"
+      name: "Ivan K"
+      aboutUrl: "${theme.mainSiteUrl}/${localeIndex}/doc/ivan-k"
   footer:
     message: "Copying allowed only with a link to the source."
     copyright: "Copyright © 2022-present The system of personal freedom."

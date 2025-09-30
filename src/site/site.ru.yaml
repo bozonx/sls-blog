@@ -12,6 +12,10 @@ body: |-
     name: "Система Личной Свободы"
     url: "${theme.mainSiteUrl}/${localeIndex}"
     logo: "${theme.mainSiteUrl}/img/home-logo.webp"
+  authors:
+    - id: "ivan-k"
+      name: "Айван Кей"
+      aboutUrl: "${theme.mainSiteUrl}/${localeIndex}/doc/ivan-k"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
     copyright: "Copyright © 2022-present The system of personal freedom."
