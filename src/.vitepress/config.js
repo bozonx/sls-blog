@@ -13,7 +13,7 @@ export default async () => {
     themeConfig: {
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
-      homeBgParalaxOffset: 150,
+      homeBgParalaxOffset: 200,
       showAuthorInPostList: false,
 
       googleAnalytics: {
