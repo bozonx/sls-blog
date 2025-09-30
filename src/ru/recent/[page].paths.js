@@ -1,9 +1,9 @@
-import { makeRecentParams } from "vitepress-sls-blog-tmpl/makeListParams.js";
+import { makeAllPostsParams } from "vitepress-sls-blog-tmpl/makeListParams.js";
 import { PER_PAGE } from "../../.vitepress/config.js";
-import getCachedPosts from "../cachedPosts.js";
+import getAllPosts from "../getAllPosts.js";
 
 export default {
   async paths() {
-    return makeRecentParams(await getCachedPosts(), PER_PAGE);
+    return makeAllPostsParams(await getAllPosts(), PER_PAGE);
   },
 };

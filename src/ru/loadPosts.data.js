@@ -12,7 +12,6 @@ export default {
       posts: await loadPostsData(
         localeDir,
         config,
-        watchedFiles,
         process.env.NODE_ENV !== "production"
       ),
     };
