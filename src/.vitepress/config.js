@@ -8,13 +8,30 @@ export const PER_PAGE = 20;
 export default async () => {
   const config = defineConfig({
     srcDir: path.resolve(__dirname, "../"),
-    hostname: "https://blog.p-libereco.org",
+    siteUrl: "https://blog.p-libereco.org",
     themeConfig: {
       repo: "https://github.com/bozonx/sls-blog",
-      siteUrl: "https://p-libereco.org",
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
       homeBgParalaxOffset: 150,
+
+      // googleAnalytics: {
+      //   propertyId: "500486823",
+      //   credentialsPath:
+      //     "/home/ivan/disk2/workspace/antifem-blog/ga-credentials.json",
+      // },
+
+      // popularPosts: {
+      //   enabled: true,
+      //   sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
+      // },
+
+      ////// specific to this blog
+      // ruTgChannel: "https://t.me/antifem_battle",
+      // ruIvanKYoutubeChannel: "https://www.youtube.com/@ivan-k-freedom",
+      // ruYoutubeChannel: "https://www.youtube.com/@antifem-move",
+      // rTgChat: "https://t.me/antifem_battle_chat",
+      mainSiteUrl: "https://p-libereco.org",
     },
     head: [
       // do not recognize telephone numbers on the page
