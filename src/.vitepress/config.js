@@ -16,6 +16,8 @@ export default async () => {
       homeBgParalaxOffset: 200,
       showAuthorInPostList: false,
 
+      search: { provider: "pagefind" },
+
       googleAnalytics: {
         propertyId: "451534387",
         credentialsPath:
@@ -28,8 +30,6 @@ export default async () => {
       },
 
       ////// specific to this blog
-      // ruTgChannel: "https://t.me/antifem_battle",
-      // ruIvanKYoutubeChannel: "https://www.youtube.com/@ivan-k-freedom",
       ruYoutubeChannel: "https://www.youtube.com/@slsfreedom",
       rTgChat: "https://t.me/slsfreedom_chat",
       mainSiteUrl: "https://p-libereco.org",
@@ -38,6 +38,7 @@ export default async () => {
       // do not recognize telephone numbers on the page
       ["meta", { name: "format-detection", content: "telephone=no" }],
 
+      // google analytics
       [
         "script",
         {
@@ -51,6 +52,10 @@ export default async () => {
         `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
        gtag('config', 'G-B9R514ZW75');`,
       ],
+
+      // pagefind
+      ["link", { rel: "stylesheet", href: "/pagefind/pagefind-ui.css" }],
+      ["script", { src: "/pagefind/pagefind-ui.js" }],
     ],
   });
 
